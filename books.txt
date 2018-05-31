@@ -1,0 +1,106 @@
+
+Count/ISBN	AUTHOR(S)				TITLE
+93
+
+32		Arabic culture and literature
+978-1604865905	Beau Beausoleil et al			Al-Mutanabbi Street Starts Here
+978-1851684069	Margaret Larkin				Al-Mutanabbi: The Poet of Sultans and Sufis: Voice of the 'Abbasid Poetic Ideal
+978-0977496129	Wahab Alansari				An Anthology of Arabic Poetry
+978-0814713594	Linda Fish Compton			Andalusian Lyrical Poetry and Old Spanish Love Songs
+978-0521776578	Roger Allen				An Introduction to Arabic Literature
+978-0268020026	Jean-Francois Breton			Arabia Felix from the Time of the Queen of Sheba: Eighth Century to First Century B.C.: Eighth Century B.C. to First Century A.D.
+978-0521092579	A. J. Arberry				Arabic Poetry: A Primer for Students
+978-1138190443	Bruce Ingham				Bedouin of Northern Arabia: Traditions of the Al-Dhafir
+978-9774166136	Nariman Naili Al-Warraki et al		Building Arabic Vocabulary Through Reading
+978-8424923969	Federico Corriente Córdoba		Diccionario de arabismos y voces afines en iberorromance
+978-8479543426						El mundo árabe y América Latina
+978-8497612517	Isma il b. Muhammad al Saqundi et al	Elogio del islam español
+978-8420682105	Abd Allah ibn Buluggin et al		El siglo XI en primera persona : Las memorias de 'Abd Allah, último rey Zirí de Granada destronado por los almorávides (1090)
+978-0812248241	Karoline P. Cook			Forbidden Passages: Muslims and Moriscos in Colonial Spanish America
+		Rafael Sagredo et al			Historia de la vida privada en Chile 1
+978-1493741755	Safaruk Z. Chowdhury			Introducing Arabic Rhetoric: Course Book
+978-9752784963	Mustafa Ustan				La Inmigracion Arabe en America
+978-8447207558	José Ramírez del Río			La orientalización de al-Andalus: Los días de los árabes en la Península Ibérica
+978-8470900761	Julio Caro Baroja			Los moriscos en el Reino de Granada
+978-0754663140	Richard Hitchcock			Mozarabs in Medieval and Early Modern Spain
+978-0748641321	Paul Starkey				Sonallah Ibrahim: Rebel with a Pen
+978-0520272927	Ross E. Dunn				The Adventures of Ibn Battuta: A Muslim Traveler of the 14th Century
+978-0791428528	Suhayl J. Jabbur			The Bedouins and the Desert: Aspects of Nomadic Life in the Arab East
+978-1612190877	Ameen Rihani				The Book of Khalid
+978-1120034939	Ahmed Ibn Mohammed Al-Makkari		The History Of The Mohammedan Dynasties In Spain V1 (1840)
+978-0548765777	Pascual De Gayangos			The History of the Mohammedan Dynasties in Spain V2 (1843)
+978-0521030236	Menocal/Scheindlin/Sells		The Literature of Al-Andalus
+978-0931340888	Habib Hassan Toouma et al		The Music of the Arabs
+978-0906094457	William Wright et al			The Travels of Ibn Jubayr: Arabic Text of the Rihla
+978-8496327412	Al-Mutanabbi et al			Tiempo sin tregua (101 poemas)
+978-0812971644	Tim Mackintosh-Smith			Travels with a Tangerine: From Morocco to Turkey in the Footsteps of Islam's Greatest Traveler
+978-0719556227	Tim MacKintosh-Smith			Yemen: Travels in Dictionary Land
+
+28		Novels, short stories, and textbooks
+978-0316116817	J Burke					Connections
+978-0452287082	John Perkins				Confessions of an Economic Hit Man
+978-8481646368	Américo Castro				España en su historia : ensayos sobre historia y literatura
+978-0140435313	Edwin Abbott				Flatland: A Romance of Many Dimensions by A. Square
+978-3596181162	Franz Kafka				Das Schloß: Roman
+978-0521542067	Hormoz Farhat				Dastgah Concept in Persian Music
+978-3921568828	Marcel Schwob				Der Roman der zweiundzwanzig Lebensläufe
+		Vicente Blasco Ibañez 			Entre Naranjos
+978-8437618982	Manuel Rojas Sepulveda			Hijo de ladrón (Letras Hispánicas)
+978-1574888492	Michael Scheuer				Imperial Hubris: Why the West Is Losing the War on Terror
+978-3871180453	Abd Elsamad Abd Elhamid Elschazli	Kants kritische Philosophie und Das Problem der Offenbarung
+978-8495724267	Pepe Perez Peregil			Las ocurrencias de pepe Pérez perejil: tal y como se las conto a Joaquín arride
+978-8437615929	Azorín					La voluntad (Letras Hispánicas)
+978-1861711144	Arseny Tarkovsky			Life, Life: Selected Poems
+		Nicomedes Guzmán			Los Hombres Oscuros
+978-8495685476	Miguel Hernández			Miguel Hernández. La verdad desnuda
+978-3522119405	Michael Ende				Momo
+978-8437603476	Miguel de Unamuno			Niebla (Letras Hispánicas)
+978-1503055582	Fyodor Dostoevsky			Notes from the Underground
+978-1467933124	Steven Low et al			Overcoming Gravity: A Systematic Approach to Gymnastics and Bodyweight Strength
+978-8489693937	Juan Ramon Jimenez			Platero Y Yo: Elegia Andaluza
+978-3866479265	Rainer Maria Rilke			Rainer Maria Rilke - Gesammelte Werke
+978-3548246826	Arno Surminski				Sommer vierundvierzig: Oder wie lange fährt man von Deutschland nach Ostpreussen?
+978-0141028590	Sathnam Sanghera			The Boy with the Topknot: A Memoir of Love, Secrets and Lies in Wolverhampton
+978-1780748399	Kamel Daoud				The Meursault Investigation
+978-0201835953	Frederick P. Brooks Jr.			The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition (2nd Edition)
+978-0143125082	Nate Silver				The Signal and the Noise: Why So Many Predictions Fail--but Some Don't
+		Mark E. Russinovich et al		Windows Internals, Part 1 (7th edition)
+
+16		Islam
+978-8447527724	Xavier Ballestín Navarro		Al-Mansur y la dawla 'amiriyya : una dinámica de poder y legitimidad en el occidente musulmán medieva
+978-3534190393	Abd Elsamad Elschazli et al		Das Kriterium des Handelns
+978-3458710332	Thomas Bauer				Die Kultur der Ambiguität
+978-8497612517	Isma il b. Muhammad al Saqundi		Elogio del islam español
+978-3406467387	Navid Kermani				Gott ist schön: Das ästhetische Erleben des Koran
+978-9698460419	Muhammad Asad Pola			Homecoming of the Heart (1932-1992): Of the Road to Mecca Part 2
+978-1872038155	Al-Busiri				Mantle Adorned
+978-1780747828	Jonathan A.C. Brown			Misquoting Muhammad: The Challenge and Choices of Interpreting the Prophet's Legacy
+978-3458330028	Meister Eckhart				Mystische Schriften
+978-0802135995	Michael Wolfe				One Thousand Roads to Mecca: Ten Centuries of Travelers Writing about the Muslim Pilgrimage
+978-0863722394	Elizabeth Monroe			Philby of Arabia: St.John Philby
+978-0253347114	Scott Kugle				Rebel Between Spirit and Law: Ahmad Zarruq, Sainthood, and Authority in Islam
+978-0915957729	Nuh Ha MIM Keller			Reliance of the Traveller: A Classic Manual of Islamic Sacred Law
+978-0140444346	Farid Attar				The Conference of the Birds
+978-0970284396	Hamza Yusuf				The Creed of Imam Al-Tahawi
+978-0199552313	Jalal al-Din Rumi et al			The Masnavi (Oxford World's Classics)
+
+17		Philosophy, psychiatry, and psychology
+978-0906094044	Simon Van Den Bergh			Averroes' Tahafut Al-Tahafut: The Incoherence of the Incoherence
+978-0631206842	E. Bruce Goldstein			Blackwell Handbook of Sensation and Perception
+978-3170222830	Thomas Fuchs				Das Gehirn - ein Beziehungsorgan: Eine phänomenologisch-ökologische Konzeption
+978-3416021982	Hermann Schmitz				Der unerschöpfliche Gegenstand: Grundzüge der Philosophie
+978-3728130372	Christian Scharfetter			Eugen Bleuler (18571939): Polyphrenie und Schizophrenie
+978-3534223572	Matthias Perkams			Islamische Philosophie im Mittelalter: Ein Handbuch
+978-0801487163	Farabi et al				Philosophy of Plato and Aristotle
+978-3534219551	Karl Albert				Platonismus. Platons Erbe und das abendländische Philosophieren
+978-3827429469	Heiko Hecht et al			Psychologie als empirische Wissenschaft: Essentielle wissenschaftstheoretische und historische Grundlagen
+978-0872202320	Lao Tzu et al				Tao Te Ching
+978-0195117899	David J. Chalmers			The Conscious Mind: In Search of a Fundamental Theory
+978-0156233019	Lewis Mumford				The Culture of Cities
+978-0201021158	Richard Phillips Feynman et al		The Feynman Lectures on Physics (3 Volume Set)
+978-1586840051	Nader El-Bizri				The Phenomenological Quest Between Avicenna and Heidegger
+978-1594488856	The RZA					The Tao of Wu
+978-3406608025	Harald Haarmann				Weltgeschichte der Sprachen: Von der Frühzeit des Menschen bis zur Gegenwart
+978-3495486566	Stefano Micali				Wolfgang Blankenburg - Psychiatrie und Phänomenologie
+
+vim:ts=8 sw=8 tw=0 noexpandtab nowrap fileencoding=utf-8 fileformat=dos
