@@ -103,7 +103,7 @@
 1965	For a Few Dollars More								***
 1965 	Thunderball 									***
 1965	The War Game									*****
-1966	Fahrenheit 451									****
+1966	Fahrenheit 451									*****
 1966	Andrei Rublev									*****
 1966	Come Drink with Me								****
 1966	Blow-Up										***
@@ -1538,6 +1538,7 @@
 2018	Den of Thieves									**
 2018	Lost in Space
 2018	The Expanse: Season 3								******
+2018	Fahrenheit 451									**
 
 ----------------------------------------------------------------------	Shite to mediocre
 	Unwatchable, shite, garbage, nonsense
