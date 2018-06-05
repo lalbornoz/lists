@@ -1,6 +1,6 @@
 
 Count/ISBN	AUTHOR(S)				TITLE
-94
+95
 
 33		Arabic culture and literature
 978-1604865905	Beau Beausoleil et al			Al-Mutanabbi Street Starts Here
@@ -67,8 +67,9 @@ Count/ISBN	AUTHOR(S)				TITLE
 978-0143125082	Nate Silver				The Signal and the Noise: Why So Many Predictions Fail--but Some Don't
 		Mark E. Russinovich et al		Windows Internals, Part 1 (7th edition)
 
-16		Islam
+17		Islam
 978-8447527724	Xavier Ballestín Navarro		Al-Mansur y la dawla 'amiriyya : una dinámica de poder y legitimidad en el occidente musulmán medieva
+978-0946621507	Martin Lings				A Sufi Saint of the Twentieth Century
 978-3534190393	Abd Elsamad Elschazli et al		Das Kriterium des Handelns
 978-3458710332	Thomas Bauer				Die Kultur der Ambiguität
 978-8497612517	Isma il b. Muhammad al Saqundi		Elogio del islam español
