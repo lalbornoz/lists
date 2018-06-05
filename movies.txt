@@ -1479,7 +1479,7 @@
 2015	Er ist wieder da								****
 2015	Southbound									***
 2015	Walking the Nile								*****
-2015	Bitter Lake
+2015	Bitter Lake									****
 2015	This Is England '90								****
 2015	Straight Outta Compton								**
 2015	The Martian
