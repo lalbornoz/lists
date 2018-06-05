@@ -1,8 +1,8 @@
 
 Count/ISBN	AUTHOR(S)				TITLE
-93
+94
 
-32		Arabic culture and literature
+33		Arabic culture and literature
 978-1604865905	Beau Beausoleil et al			Al-Mutanabbi Street Starts Here
 978-1851684069	Margaret Larkin				Al-Mutanabbi: The Poet of Sultans and Sufis: Voice of the 'Abbasid Poetic Ideal
 978-0977496129	Wahab Alansari				An Anthology of Arabic Poetry
@@ -16,6 +16,7 @@ Count/ISBN	AUTHOR(S)				TITLE
 978-8479543426						El mundo árabe y América Latina
 978-8497612517	Isma il b. Muhammad al Saqundi et al	Elogio del islam español
 978-8420682105	Abd Allah ibn Buluggin et al		El siglo XI en primera persona : Las memorias de 'Abd Allah, último rey Zirí de Granada destronado por los almorávides (1090)
+978-3423095372	Claudia Ott, Salim Alafenisch et al	Erste arabische Lesestücke
 978-0812248241	Karoline P. Cook			Forbidden Passages: Muslims and Moriscos in Colonial Spanish America
 		Rafael Sagredo et al			Historia de la vida privada en Chile 1
 978-1493741755	Safaruk Z. Chowdhury			Introducing Arabic Rhetoric: Course Book
