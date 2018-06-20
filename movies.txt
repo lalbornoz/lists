@@ -162,13 +162,13 @@
 1971	The Organization								**
 1971	The French Connection								***
 1971	The Panic in Needle Park							***
-1971	Sweet Sweetback's Baadasssss Song						*****
+1971	Sweet Sweetback's Baadasssss Song						******
 1972	The Godfather									******
 1972	Way of the Dragon								*****
 1972	Trouble Man									***
 1972	The Valachi Papers
 1972	Shaft's Big Score								**
-1972	Across 110th Street								***
+1972	Across 110th Street								****
 1972	Monty Python's Fliegender Zirkus						*****
 1972	The Poseidon Adventure								****
 1972 	Slaughterhouse-Five 								***
@@ -783,6 +783,7 @@
 1998	Kurz und schmerzlos								******
 1998	Croupier
 1999	Fight Club									***
+1999	What Becomes of the Broken Hearted?						****
 1999	The Blair Witch Project								**
 1999	South Park: Bigger, Longer & Uncut						****
 1999	Absolute Giganten
@@ -950,6 +951,7 @@
 2002	25th Hour									****
 2002	Together									***
 2003	Zaman - l'homme des roseaux							*****
+2003	Spring, Summer, Fall, Winter... and Spring					*****
 2003	Children of Dune
 2003	The Recruit									*
 2003	A Man Apart									***
