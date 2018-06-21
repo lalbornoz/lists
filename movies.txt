@@ -1130,7 +1130,7 @@
 2006	An Inconvenient Truth								**
 2006	The Foot Fist Way								**
 2006	Children of Men									****
-2006	Das Leben der Anderen								**
+2006	Das Leben der Anderen								*****
 2007	Auf der anderen Seite								******
 2007	Chop Shop									****
 2007	Resident Evil: Extinction							***
