@@ -1174,6 +1174,7 @@
 2007	Taxi to the Dark Side
 2007	1408										***
 2008	Lemon Tree									***
+2008	The Reader									**
 2008	Miracle at St. Anna								***
 2008	Burn After Reading								**
 2008	Pineapple Express								***
