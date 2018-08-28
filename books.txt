@@ -1,8 +1,8 @@
 
 Count/ISBN	AUTHOR(S)				TITLE
-95
+89
 
-33		Arabic culture and literature
+34		Arabic culture and literature
 978-1604865905	Beau Beausoleil et al			Al-Mutanabbi Street Starts Here
 978-1851684069	Margaret Larkin				Al-Mutanabbi: The Poet of Sultans and Sufis: Voice of the 'Abbasid Poetic Ideal
 978-0977496129	Wahab Alansari				An Anthology of Arabic Poetry
@@ -35,6 +35,7 @@ Count/ISBN	AUTHOR(S)				TITLE
 978-0906094457	William Wright et al			The Travels of Ibn Jubayr: Arabic Text of the Rihla
 978-8496327412	Al-Mutanabbi et al			Tiempo sin tregua (101 poemas)
 978-0812971644	Tim Mackintosh-Smith			Travels with a Tangerine: From Morocco to Turkey in the Footsteps of Islam's Greatest Traveler
+		Muhammad Asad				Unromantisches Morgenland Aus d. Tagebuch e. Reise
 978-0719556227	Tim MacKintosh-Smith			Yemen: Travels in Dictionary Land
 
 28		Novels, short stories, and textbooks
@@ -67,39 +68,32 @@ Count/ISBN	AUTHOR(S)				TITLE
 978-0143125082	Nate Silver				The Signal and the Noise: Why So Many Predictions Fail--but Some Don't
 		Mark E. Russinovich et al		Windows Internals, Part 1 (7th edition)
 
-17		Islam
+15		Islam
 978-8447527724	Xavier Ballestín Navarro		Al-Mansur y la dawla 'amiriyya : una dinámica de poder y legitimidad en el occidente musulmán medieva
 978-0946621507	Martin Lings				A Sufi Saint of the Twentieth Century
 978-3534190393	Abd Elsamad Elschazli et al		Das Kriterium des Handelns
 978-3458710332	Thomas Bauer				Die Kultur der Ambiguität
 978-8497612517	Isma il b. Muhammad al Saqundi		Elogio del islam español
 978-3406467387	Navid Kermani				Gott ist schön: Das ästhetische Erleben des Koran
-978-9698460419	Muhammad Asad Pola			Homecoming of the Heart (1932-1992): Of the Road to Mecca Part 2
 978-1872038155	Al-Busiri				Mantle Adorned
 978-1780747828	Jonathan A.C. Brown			Misquoting Muhammad: The Challenge and Choices of Interpreting the Prophet's Legacy
 978-3458330028	Meister Eckhart				Mystische Schriften
 978-0802135995	Michael Wolfe				One Thousand Roads to Mecca: Ten Centuries of Travelers Writing about the Muslim Pilgrimage
-978-0863722394	Elizabeth Monroe			Philby of Arabia: St.John Philby
 978-0253347114	Scott Kugle				Rebel Between Spirit and Law: Ahmad Zarruq, Sainthood, and Authority in Islam
 978-0915957729	Nuh Ha MIM Keller			Reliance of the Traveller: A Classic Manual of Islamic Sacred Law
 978-0140444346	Farid Attar				The Conference of the Birds
 978-0970284396	Hamza Yusuf				The Creed of Imam Al-Tahawi
 978-0199552313	Jalal al-Din Rumi et al			The Masnavi (Oxford World's Classics)
 
-17		Philosophy, psychiatry, and psychology
+12		Philosophy, psychiatry, and psychology
 978-0906094044	Simon Van Den Bergh			Averroes' Tahafut Al-Tahafut: The Incoherence of the Incoherence
-978-0631206842	E. Bruce Goldstein			Blackwell Handbook of Sensation and Perception
-978-3170222830	Thomas Fuchs				Das Gehirn - ein Beziehungsorgan: Eine phänomenologisch-ökologische Konzeption
-978-3416021982	Hermann Schmitz				Der unerschöpfliche Gegenstand: Grundzüge der Philosophie
 978-3728130372	Christian Scharfetter			Eugen Bleuler (18571939): Polyphrenie und Schizophrenie
 978-3534223572	Matthias Perkams			Islamische Philosophie im Mittelalter: Ein Handbuch
 978-0801487163	Farabi et al				Philosophy of Plato and Aristotle
 978-3534219551	Karl Albert				Platonismus. Platons Erbe und das abendländische Philosophieren
-978-3827429469	Heiko Hecht et al			Psychologie als empirische Wissenschaft: Essentielle wissenschaftstheoretische und historische Grundlagen
 978-0872202320	Lao Tzu et al				Tao Te Ching
 978-0195117899	David J. Chalmers			The Conscious Mind: In Search of a Fundamental Theory
 978-0156233019	Lewis Mumford				The Culture of Cities
-978-0201021158	Richard Phillips Feynman et al		The Feynman Lectures on Physics (3 Volume Set)
 978-1586840051	Nader El-Bizri				The Phenomenological Quest Between Avicenna and Heidegger
 978-1594488856	The RZA					The Tao of Wu
 978-3406608025	Harald Haarmann				Weltgeschichte der Sprachen: Von der Frühzeit des Menschen bis zur Gegenwart
