@@ -51,7 +51,7 @@
 1958	The Defiant Ones								***
 1958	The Inn of the Sixth Happiness							***
 1958	The Hidden Fortress								*****
-1959	Journey to the Center of the Earth						***
+1959	Journey to the Center of the Earth						****
 1959	The Human Condition I: No Greater Love						******
 1959	The Human Condition II: Road to Eternity					******
 1959	The World, the Flesh, and the Devil						**
@@ -331,7 +331,7 @@
 1982	The Comic Strip Presents...: Five Go Mad in Dorset				****
 1982	The Young Ones									**
 1982	48 Hrs.										**
-1982	Blade Runner
+1982	Blade Runner									****
 1982	First Blood									*****
 1982	The Thing									***
 1982	Night Shift									**
@@ -906,6 +906,7 @@
 2001	Das Weisse Rauschen								*****
 2001	Piñero
 2002	Divine Intervention								****
+2002	About Schmidt									***
 2002	Altered Carbon: Season 1							***
 2002	Resident Evil									****
 2002	Shottas
@@ -1176,6 +1177,7 @@
 2007	Taxi to the Dark Side
 2007	1408										***
 2008	Lemon Tree									***
+2008	Journey to the Center of the Earth
 2008	The Reader									**
 2008	Miracle at St. Anna								***
 2008	Burn After Reading								**
@@ -1326,6 +1328,7 @@
 2010	North Korea - Crossing the Line (BBC Four Programmes)				***
 2010	Snabba cash									****
 2011	Rich Hall's 'The Dirty South' (BBC Four Programmes)				****
+2011	The Adventures of Tintin
 2011	Conan the Barbarian
 2011	Mein Bester Feind								****
 2011	Hanna										***
@@ -1369,7 +1372,7 @@
 2012	Man on a Ledge									**
 2012	Bad Ass										****
 2012	Sample This									****
-2012	Mac & Devin Go to High School							*
+2012	Mac & Devin Go to High School							***
 2012	LUV										***
 2012	Reincarnated									***
 2012	Safe										***
@@ -1390,6 +1393,7 @@
 2013	Clear History									***
 2013	The Tomorrow People: Season 1
 2013	Defiance: Season 1								**
+2013	The Butler									***
 2013	Continuum: Season 2								***
 2013	The Fifth Estate								***
 2013	World War Z									**
@@ -1528,7 +1532,7 @@
 2016	The Last Man on Earth: Season 3							**
 2016	Tschick										**
 2017	Better Call Saul: Season 3							*****
-2017	Blade Runner 2049								**
+2017	Blade Runner 2049								****
 2017	Philip K. Dick's Electric Dreams: Season 1					***
 2017	The Killing of a Sacred Deer							***
 2017	It										***
@@ -1545,6 +1549,8 @@
 2017	Aus dem Nichts									**
 2017	Get Out										***
 2018	Annihilation
+2018	The First									**
+2018	Ready Player One								**
 2018	The Terror									****
 2018	Den of Thieves									***
 2018	Lost in Space
