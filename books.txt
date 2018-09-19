@@ -1,8 +1,9 @@
 
 Count/ISBN	AUTHOR(S)				TITLE
-89
+90
 
-34		Arabic culture and literature
+35		Arabic culture and literature
+978-0521290234	M. M. Badawi				A Critical Introduction to Modern Arabic Poetry
 978-1604865905	Beau Beausoleil et al			Al-Mutanabbi Street Starts Here
 978-1851684069	Margaret Larkin				Al-Mutanabbi: The Poet of Sultans and Sufis: Voice of the 'Abbasid Poetic Ideal
 978-0977496129	Wahab Alansari				An Anthology of Arabic Poetry
@@ -68,7 +69,7 @@ Count/ISBN	AUTHOR(S)				TITLE
 978-0143125082	Nate Silver				The Signal and the Noise: Why So Many Predictions Fail--but Some Don't
 		Mark E. Russinovich et al		Windows Internals, Part 1 (7th edition)
 
-15		Islam
+16		Islam
 978-8447527724	Xavier Ballestín Navarro		Al-Mansur y la dawla 'amiriyya : una dinámica de poder y legitimidad en el occidente musulmán medieva
 978-0946621507	Martin Lings				A Sufi Saint of the Twentieth Century
 978-3534190393	Abd Elsamad Elschazli et al		Das Kriterium des Handelns
@@ -81,19 +82,19 @@ Count/ISBN	AUTHOR(S)				TITLE
 978-0802135995	Michael Wolfe				One Thousand Roads to Mecca: Ten Centuries of Travelers Writing about the Muslim Pilgrimage
 978-0253347114	Scott Kugle				Rebel Between Spirit and Law: Ahmad Zarruq, Sainthood, and Authority in Islam
 978-0915957729	Nuh Ha MIM Keller			Reliance of the Traveller: A Classic Manual of Islamic Sacred Law
+978-9004158399	Jonathan Brown				The Canonization of al-Bukhari and Muslim 
 978-0140444346	Farid Attar				The Conference of the Birds
 978-0970284396	Hamza Yusuf				The Creed of Imam Al-Tahawi
 978-0199552313	Jalal al-Din Rumi et al			The Masnavi (Oxford World's Classics)
 
-12		Philosophy, psychiatry, and psychology
-978-0906094044	Simon Van Den Bergh			Averroes' Tahafut Al-Tahafut: The Incoherence of the Incoherence
+11		Philosophy, psychiatry, and psychology
 978-3728130372	Christian Scharfetter			Eugen Bleuler (18571939): Polyphrenie und Schizophrenie
 978-3534223572	Matthias Perkams			Islamische Philosophie im Mittelalter: Ein Handbuch
-978-0801487163	Farabi et al				Philosophy of Plato and Aristotle
 978-3534219551	Karl Albert				Platonismus. Platons Erbe und das abendländische Philosophieren
 978-0872202320	Lao Tzu et al				Tao Te Ching
 978-0195117899	David J. Chalmers			The Conscious Mind: In Search of a Fundamental Theory
 978-0156233019	Lewis Mumford				The Culture of Cities
+978-0684837055	Ilya Prigogine				The End of Certainty
 978-1586840051	Nader El-Bizri				The Phenomenological Quest Between Avicenna and Heidegger
 978-1594488856	The RZA					The Tao of Wu
 978-3406608025	Harald Haarmann				Weltgeschichte der Sprachen: Von der Frühzeit des Menschen bis zur Gegenwart
