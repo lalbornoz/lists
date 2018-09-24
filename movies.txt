@@ -57,6 +57,7 @@
 1959	The World, the Flesh, and the Devil						**
 1959 	North by Northwest 								***
 1960	The Apartment									****
+1960	Breathless									**
 1960	I Aim at the Stars								***
 1960	Le Trou										******
 1960	Spartacus									**
@@ -702,6 +703,7 @@
 1996	Bullet										****
 1996	Escape from L.A.								****
 1997	She's So Lovely									****
+1997	Taste of Cherry									****
 1997	First Time Felon								****
 1997	G.I. Jane									****
 1997	Rhyme & Reason									****
