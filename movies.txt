@@ -86,6 +86,7 @@
 1962	Ánimas Trujano									****
 1962	Sanjuro										****
 1963	The Birds 									****
+1963	Zouqâq al-Midaqq								******
 1963	El Naser Salah el Dine								****
 1963	New Tale of Zatoichi								***
 1963	The Cool World									**
@@ -703,7 +704,7 @@
 1996	Bullet										****
 1996	Escape from L.A.								****
 1997	She's So Lovely									****
-1997	Taste of Cherry									****
+1997	Taste of Cherry									*****
 1997	First Time Felon								****
 1997	G.I. Jane									****
 1997	Rhyme & Reason									****
@@ -788,7 +789,7 @@
 1998	Kurz und schmerzlos								******
 1998	Croupier
 1999	Fight Club									***
-1999	After the Rain									*****
+1999	After the Rain									******
 1999	What Becomes of the Broken Hearted?						****
 1999	The Blair Witch Project								**
 1999	South Park: Bigger, Longer & Uncut						****
