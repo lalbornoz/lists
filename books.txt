@@ -1,8 +1,8 @@
 
 Count/ISBN	AUTHOR(S)				TITLE
-90
+92
 
-35		Arabic culture and literature
+37		Arabic culture and literature
 978-0521290234	M. M. Badawi				A Critical Introduction to Modern Arabic Poetry
 978-1604865905	Beau Beausoleil et al			Al-Mutanabbi Street Starts Here
 978-1851684069	Margaret Larkin				Al-Mutanabbi: The Poet of Sultans and Sufis: Voice of the 'Abbasid Poetic Ideal
@@ -24,6 +24,7 @@ Count/ISBN	AUTHOR(S)				TITLE
 978-9752784963	Mustafa Ustan				La Inmigracion Arabe en America
 978-8447207558	José Ramírez del Río			La orientalización de al-Andalus: Los días de los árabes en la Península Ibérica
 978-8470900761	Julio Caro Baroja			Los moriscos en el Reino de Granada
+978-9774164835	Naguib Mahfouz				Midaq Alley
 978-0754663140	Richard Hitchcock			Mozarabs in Medieval and Early Modern Spain
 978-0748641321	Paul Starkey				Sonallah Ibrahim: Rebel with a Pen
 978-0520272927	Ross E. Dunn				The Adventures of Ibn Battuta: A Muslim Traveler of the 14th Century
@@ -33,6 +34,7 @@ Count/ISBN	AUTHOR(S)				TITLE
 978-0548765777	Pascual De Gayangos			The History of the Mohammedan Dynasties in Spain V2 (1843)
 978-0521030236	Menocal/Scheindlin/Sells		The Literature of Al-Andalus
 978-0931340888	Habib Hassan Toouma et al		The Music of the Arabs
+978-1583228715	Seba Al-Herz				The Others
 978-0906094457	William Wright et al			The Travels of Ibn Jubayr: Arabic Text of the Rihla
 978-8496327412	Al-Mutanabbi et al			Tiempo sin tregua (101 poemas)
 978-0812971644	Tim Mackintosh-Smith			Travels with a Tangerine: From Morocco to Turkey in the Footsteps of Islam's Greatest Traveler
