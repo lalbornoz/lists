@@ -266,7 +266,7 @@
 1978	Up in Smoke									****
 1978	Heroes of the East								****
 1978	The 36th Chamber of Shaolin							******
-1978	BBC Connections									****
+1978	BBC Connections									*****
 1978	Damien: Omen II									***
 1978 	Foul Play 									**
 1978	Five Deadly Venoms								*****
@@ -1031,6 +1031,7 @@
 2004	Mala Leche									***
 2004	The Butterfly Effect
 2005	Free Zone									***
+2005	Bab'Aziz
 2005	Man Push Cart									****
 2005	Barfuss										*****
 2005	The Legend of Omar Khayyam							***
@@ -1538,6 +1539,7 @@
 2016	The Last Man on Earth: Season 3							**
 2016	Tschick										**
 2017	Better Call Saul: Season 3							*****
+2017	City of Ghosts									******
 2017	Blade Runner 2049								****
 2017	Philip K. Dick's Electric Dreams: Season 1					***
 2017	The Killing of a Sacred Deer							***
@@ -1555,6 +1557,7 @@
 2017	Aus dem Nichts									**
 2017	Get Out										***
 2018	Annihilation
+2018	The Cleaners									****
 2018	The First									**
 2018	Ready Player One								**
 2018	The Terror									****
