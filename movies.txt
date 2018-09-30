@@ -640,6 +640,7 @@
 1994	Pulp Fiction									****
 1994	Natural Born Killers								***
 1995	Twelve Monkeys									*****
+1995	Tales from the Hood								***
 1995	Tommy Boy									***
 1995	New Jersey Drive								***
 1995	Desperado									***
@@ -1540,6 +1541,7 @@
 2016	The Last Man on Earth: Season 3							**
 2016	Tschick										**
 2017	Better Call Saul: Season 3							*****
+2017	The Force									*****
 2017	City of Ghosts									******
 2017	Blade Runner 2049								****
 2017	Philip K. Dick's Electric Dreams: Season 1					***
