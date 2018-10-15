@@ -184,6 +184,7 @@
 1972	Frenzy										***
 1972	Solaris										******
 1973	The Mack 									***
+1973	American Graffiti								***
 1973	Westworld									****
 1973	F for Fake									****
 1973	The Fate of Lee Khan								***
