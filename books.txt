@@ -1,6 +1,6 @@
 
 Count/ISBN	AUTHOR(S)				TITLE
-92
+93
 
 37		Arabic culture and literature
 978-0521290234	M. M. Badawi				A Critical Introduction to Modern Arabic Poetry
@@ -41,7 +41,7 @@ Count/ISBN	AUTHOR(S)				TITLE
 		Muhammad Asad				Unromantisches Morgenland Aus d. Tagebuch e. Reise
 978-0719556227	Tim MacKintosh-Smith			Yemen: Travels in Dictionary Land
 
-28		Novels, short stories, and textbooks
+29		Novels, short stories, and textbooks
 978-0316116817	J Burke					Connections
 978-0452287082	John Perkins				Confessions of an Economic Hit Man
 978-8481646368	Américo Castro				España en su historia : ensayos sobre historia y literatura
@@ -66,6 +66,7 @@ Count/ISBN	AUTHOR(S)				TITLE
 978-3866479265	Rainer Maria Rilke			Rainer Maria Rilke - Gesammelte Werke
 978-3548246826	Arno Surminski				Sommer vierundvierzig: Oder wie lange fährt man von Deutschland nach Ostpreussen?
 978-0141028590	Sathnam Sanghera			The Boy with the Topknot: A Memoir of Love, Secrets and Lies in Wolverhampton
+978-0553380644	Tom Wolfe				The Electric Kool-Aid Acid Test
 978-1780748399	Kamel Daoud				The Meursault Investigation
 978-0201835953	Frederick P. Brooks Jr.			The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition (2nd Edition)
 978-0143125082	Nate Silver				The Signal and the Noise: Why So Many Predictions Fail--but Some Don't
