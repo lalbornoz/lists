@@ -916,12 +916,13 @@
 2001	Das Weisse Rauschen								*****
 2001	Piñero
 2002	Divine Intervention								****
+2002	Spun
 2002	About Schmidt									***
 2002	Altered Carbon: Season 1							***
 2002	Resident Evil									****
 2002	Shottas
 2002	Solaris
-2002	8 Mile										***
+2002	8 Mile										****
 2002	Cube 2: Hypercube
 2002	Star Trek: Nemesis
 2002	The Lord of the Rings: The Two Towers						**
@@ -1006,7 +1007,7 @@
 2004	Layer Cake									****
 2004	Alien vs. Predator								***
 2004	Eternal Sunshine of the Spotless Mind
-2004	Primer										****
+2004	Primer										*****
 2004	Der Untergang									****
 2004	Kebab-Connection								***
 2004	Cube Zero
@@ -1147,6 +1148,7 @@
 2006	Children of Men									****
 2006	Das Leben der Anderen								*****
 2007	Auf der anderen Seite								******
+2007	Sunshine									***
 2007	Chop Shop									****
 2007	Resident Evil: Extinction							***
 2007	The Man from Earth
@@ -1165,7 +1167,7 @@
 2007	The Mist 									***
 2007	Tropa de Elite									***
 2007 	The Invasion
-2007 	Sunshine
+2007 	Sunshine									**
 2007 	Are We Done Yet? 								***
 2007 	Bone Dry 									****
 2007 	Rush Hour 3 									**
@@ -1475,6 +1477,7 @@
 2014	Interstellar									****
 2014	Wir sind jung. Wir sind stark.							****
 2015	Better Call Saul: Season 1							*****
+2015	Dope										***
 2015	En man som heter Ove								****
 2015	12 Monkeys: Season 1								**
 2015	Continuum: Season 4								**
@@ -1513,6 +1516,7 @@
 2015	And Then There Were None							****
 2015	Mad Max Fury Road								**
 2016	Lehrstunden der Harmonie							****
+2016	Barbershop: The Next Cut							***
 2016	INCORPORATED: Season 1
 2016	Frequency: Season 1								**
 2016	Arrival										****
@@ -1564,6 +1568,7 @@
 2017	Aus dem Nichts									**
 2017	Get Out										***
 2018	Annihilation
+2018	4 Blocks									*****
 2018	The Cleaners									****
 2018	The First									**
 2018	Ready Player One								**
