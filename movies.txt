@@ -220,7 +220,7 @@
 1974	Chinatown 									****
 1975	Dolemite									**
 1975	Bucktown									****
-1975	One Flew Over the Cuckoo's Nest							*****
+1975	One Flew Over the Cuckoo's Nest							******
 1975	A Boy and his Dog								***
 1975 	Monty Python and the Holy Grail 						****
 1975 	Fawlty Towers 									*****
@@ -606,7 +606,7 @@
 1993	True Romance
 1993	Who's The Man?									****
 1993	Alive										***
-1993	Blood In Blood Out								*****
+1993	Blood In Blood Out								******
 1993	Needful Things 									****
 1993	A Bronx Tale									****
 1993	Menace II Society 								****
