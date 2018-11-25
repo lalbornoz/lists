@@ -1,8 +1,8 @@
 
 Count/ISBN	AUTHOR(S)				TITLE
-93
+94
 
-37		Arabic culture and literature
+38		Arabic culture and literature
 978-0521290234	M. M. Badawi				A Critical Introduction to Modern Arabic Poetry
 978-1604865905	Beau Beausoleil et al			Al-Mutanabbi Street Starts Here
 978-1851684069	Margaret Larkin				Al-Mutanabbi: The Poet of Sultans and Sufis: Voice of the 'Abbasid Poetic Ideal
@@ -26,6 +26,7 @@ Count/ISBN	AUTHOR(S)				TITLE
 978-8470900761	Julio Caro Baroja			Los moriscos en el Reino de Granada
 978-9774164835	Naguib Mahfouz				Midaq Alley
 978-0754663140	Richard Hitchcock			Mozarabs in Medieval and Early Modern Spain
+978-0394740676	Edward W. Said				Orientalism
 978-0748641321	Paul Starkey				Sonallah Ibrahim: Rebel with a Pen
 978-0520272927	Ross E. Dunn				The Adventures of Ibn Battuta: A Muslim Traveler of the 14th Century
 978-0791428528	Suhayl J. Jabbur			The Bedouins and the Desert: Aspects of Nomadic Life in the Arab East
