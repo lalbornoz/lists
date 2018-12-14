@@ -802,7 +802,6 @@
 1999	Absolute Giganten
 1999	In China They Eat Dogs								****
 1999	True Crime									***
-1999	Curb your Enthusiasm								****
 1999	The Matrix									***
 1999	Bleeder										*
 1999	Star Wars: Episode I - The Phantom Menace					**
@@ -839,6 +838,7 @@
 1999	Office Space
 1999	The Boondock Saints								***
 2000	Im Juli										***
+2000	Curb your Enthusiasm: Season 1							*****
 2000	The Corner									*****
 2000	The Sixth Day									***
 2000	Dune										*
@@ -876,6 +876,7 @@
 2000	Requiem for a Dream								***
 2000	Memento										****
 2001	Taxi para tres									****
+2001	Curb your Enthusiasm: Season 2							*****
 2001	Yazgı										****
 2001	Welcome to Death Row								***
 2001	Taking Sides									***
@@ -917,6 +918,7 @@
 2001	Das Weisse Rauschen								*****
 2001	Piñero
 2002	Divine Intervention								****
+2002	Curb your Enthusiasm: Season 3							*****
 2002	Spun
 2002	About Schmidt									***
 2002	Altered Carbon: Season 1							***
@@ -1039,7 +1041,9 @@
 2004	Gegen die Wand									*****
 2004	Mala Leche									***
 2004	The Butterfly Effect
+2004	Curb your Enthusiasm: Season 4							****
 2005	Free Zone									***
+2005	Curb your Enthusiasm: Season 5							*****
 2005	Bab'Aziz
 2005	Man Push Cart									****
 2005	Barfuss										*****
@@ -1151,6 +1155,7 @@
 2006	Children of Men									****
 2006	Das Leben der Anderen								*****
 2007	Auf der anderen Seite								******
+2007	Curb your Enthusiasm: Season 6							*****
 2007	Sunshine									***
 2007	Chop Shop									****
 2007	Resident Evil: Extinction							***
