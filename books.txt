@@ -1,20 +1,20 @@
 Count/ISBN	Category/PRIMARY AUTHOR			TITLE
 42		In total
 
-7		Islam
+8		Islam
 978-0946621507	Martin Lings				A Sufi Saint of the Twentieth Century
 979-3534190393	Abd Elsamad Elschazli			Das Kriterium des Handelns
 978-3458710332	Thomas Bauer				Die Kultur der Ambiguität
 978-3406467387	Navid Kermani				Gott ist schön: Das ästhetische Erleben des Koran
 978-0915957729	Nuh Ha MIM Keller			Reliance of the Traveller: A Classic Manual of Islamic Sacred Law
+978-0954250300	Imam Busiri				The Burda: The Poem of the Cloak
 978-9004158399	Jonathan Brown				The Canonization of al-Bukhari and Muslim 
 978-0970284396	Hamza Yusuf				The Creed of Imam Al-Tahawi
 
-8		Language, music, poetry
+7		Language, music, poetry
 978-0521092579	A. J. Arberry				Arabic Poetry: A Primer for Students
 978-9774166136	Nariman Naili Al-Warraki		Building Arabic Vocabulary Through Reading
 978-0521542067	Hormoz Farhat				Dastgah Concept in Persian Music
-978-1872038155	Al-Busiri				Mantle Adorned
 978-3866479265	Rainer Maria Rilke			Rainer Maria Rilke - Gesammelte Werke
 978-0140444346	Farid Attar				The Conference of the Birds
 978-0931340888	Habib Hassan Toouma			The Music of the Arabs
