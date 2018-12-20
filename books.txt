@@ -1,8 +1,9 @@
 Count/ISBN	Category/PRIMARY AUTHOR			TITLE
-42		In total
+43		In total
 
-8		Islam
+9		Islam
 978-0946621507	Martin Lings				A Sufi Saint of the Twentieth Century
+978-3458700067	al-Nawawi				Das Buch der Vierzig Hadithe: Kitab al-Arba'in. Mit dem Kommentar von Ibn Daqiq al-'Id
 979-3534190393	Abd Elsamad Elschazli			Das Kriterium des Handelns
 978-3458710332	Thomas Bauer				Die Kultur der Ambiguität
 978-3406467387	Navid Kermani				Gott ist schön: Das ästhetische Erleben des Koran
