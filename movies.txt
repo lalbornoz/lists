@@ -348,6 +348,7 @@
 1982 	Conan the Barbarian 								*****
 1982	Missing
 1983	Wild Style									*****
+1983	Children of Darkness								*****
 1983	Cheech and Chong's Still Smokin'						****
 1983	Style Wars									****
 1983	Rumble Fish									***
