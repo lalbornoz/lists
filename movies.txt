@@ -503,7 +503,7 @@
 1989 	See no Evil, Hear no Evil 							****
 1989 	Ghostbusters II 								**
 1989 	Police Academy 6 - City Under Siege 						**
-1989	Kickboxer									*****
+1989	Kickboxer									***
 1989	Traffik										*****
 1989 	Blind Fury 									**
 1989	Lean on Me
@@ -973,7 +973,7 @@
 2002	Heaven										**
 2002	25th Hour									****
 2002	Together									***
-2003	Zaman - l'homme des roseaux							*****
+2003	Zaman - l'homme des roseaux							******
 2003	Spring, Summer, Fall, Winter... and Spring					*****
 2003	Children of Dune
 2003	The Recruit									*
@@ -1114,6 +1114,7 @@
 2005	Tsotsi
 2005	Syriana										****
 2006	This is England									****
+2006	Idiocracy									***
 2006	Knallhart									***
 2006	Repos										***
 2006	Kyle XY: Season 1
@@ -1570,6 +1571,7 @@
 2016	The Last Man on Earth: Season 3							**
 2016	Tschick										**
 2017	Better Call Saul: Season 3							*****
+2017	Destruction Los Angeles								**
 2017	Ittefaq										***
 2017	The Force									*****
 2017	City of Ghosts									******
@@ -1601,6 +1603,7 @@
 2018	The Expanse: Season 3								******
 2018	Fahrenheit 451									**
 2018	Who is America									*****
+2019	Trigger Warning with Killer Mike						****
 
 ----------------------------------------------------------------------	Shite to mediocre
 	Unwatchable, shite, garbage, nonsense
