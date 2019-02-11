@@ -621,7 +621,7 @@
 1994	Crooklyn									****
 1994	Serial Mom									***
 1994	Timecop										***
-1994	Clerks										**
+1994	Clerks										***
 1994	Star Trek Generations								**
 1994	Speed										***
 1994	Al-mohager									******
@@ -1049,6 +1049,7 @@
 2004	The Butterfly Effect
 2004	Curb your Enthusiasm: Season 4							****
 2005	Free Zone									***
+2005	The Boondocks: Season 1								****
 2005	Curb your Enthusiasm: Season 5							*****
 2005	Bab'Aziz
 2005	Man Push Cart									****
@@ -1114,6 +1115,7 @@
 2005	Tsotsi
 2005	Syriana										****
 2006	This is England									****
+2006	Clerks II									**
 2006	Idiocracy									***
 2006	Knallhart									***
 2006	Repos										***
@@ -1162,6 +1164,7 @@
 2006	Children of Men									****
 2006	Das Leben der Anderen								*****
 2007	Auf der anderen Seite								******
+2007	The Boondocks: Season 2								****
 2007	Curb your Enthusiasm: Season 6							*****
 2007	Sunshine									***
 2007	Chop Shop									****
@@ -1304,6 +1307,7 @@
 2009	The Last House on the Left
 2009	Dead Man Running
 2010	Soul Kitchen									****
+2010	The Boondocks: Season 3								***
 2010	Lottery Ticket									****
 2010	Resident Evil: Afterlife							**
 2010	Dominion: Season 1
