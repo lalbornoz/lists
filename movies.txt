@@ -532,6 +532,7 @@
 1990	Come See the Paradise
 1990	Goodfellas									****
 1991	New Jack City									****
+1991	Straight Out of Brooklyn							*****
 1991	Star Trek VI: The Undiscovered Country						****
 1991	Mader										******
 1991	Barton Fink									***
@@ -1021,7 +1022,7 @@
 2004	Eternal Sunshine of the Spotless Mind
 2004	Primer										*****
 2004	Der Untergang									****
-2004	Kebab-Connection								***
+2004	Kebab Connection								****
 2004	Cube Zero
 2004	Football Factory								***
 2004	El Padrino
