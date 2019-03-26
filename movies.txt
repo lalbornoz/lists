@@ -1162,7 +1162,7 @@
 2006	Quinceañera
 2006	Der freie Wille									****
 2006	Babel										***
-2006	The Road to Guantanamo
+2006	The Road to Guantanamo								*****
 2006	An Inconvenient Truth								**
 2006	The Foot Fist Way								**
 2006	Children of Men									****
@@ -1366,6 +1366,7 @@
 2010	North Korea - Crossing the Line (BBC Four Programmes)				***
 2010	Snabba cash									****
 2011	Rich Hall's 'The Dirty South' (BBC Four Programmes)				****
+2011	Trishna										****
 2011	Jannat 'Ali									*****
 2011	Curb your Enthusiasm: Season 8							*****
 2011	Magic Trip: Ken Kesey's Search for a Kool Place					*****
@@ -1408,6 +1409,7 @@
 2011 	Rampart 									***
 2011	The Sinking of the Laconia							***
 2012 	Yes, We Can 									***
+2012	The Reluctant Fundamentalist							*****
 2012	Room 237									***
 2012	Snow on tha Bluff								****
 2012	Continuum: Season 1								***
