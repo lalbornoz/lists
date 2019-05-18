@@ -1,5 +1,5 @@
 Count/ISBN	Category/PRIMARY AUTHOR			TITLE
-50		In total
+51		In total
 
 10		Islam
 978-0946621507	Martin Lings				A Sufi Saint of the Twentieth Century
@@ -44,10 +44,11 @@ Count/ISBN	Category/PRIMARY AUTHOR			TITLE
 978-1594488856	The RZA					The Tao of Wu
 978-3495486566	Stefano Micali				Wolfgang Blankenburg - Psychiatrie und Phänomenologie
 
-15		Novels, short stories
+16		Novels, short stories
 978-3596181162	Franz Kafka				Das Schloß: Roman
 978-1561310326	Ismail Kadare				Doruntine
 978-0140435313	Edwin Abbott				Flatland: A Romance of Many Dimensions by A. Square
+978-9681604042	Jorge Luis Borges			Manual de zoología fantástica
 978-9774164835	Naguib Mahfouz				Midaq Alley
 978-3522119405	Michael Ende				Momo
 978-1503055582	Fyodor Dostoevsky			Notes from the Underground
