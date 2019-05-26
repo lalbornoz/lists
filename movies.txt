@@ -152,7 +152,7 @@
 1970	Cotton Comes to Harlem
 1970	The Landlord									****
 1971	THX 1138									****
-1971	Goya – oder der arge Weg der Erkenntnis						****
+1971	Goya - oder der arge Weg der Erkenntnis						****
 1971	Fists of Fury									****
 1971	A Touch of Zen									******
 1971	The Big Boss									****
@@ -604,7 +604,7 @@
 1993 	Strapped 									****
 1993 	Judgment Night 									****
 1993 	Poetic Justice 									*****
-1993 	Texas – Doc Snyder hält die Welt in Atem 					***
+1993 	Texas - Doc Snyder hält die Welt in Atem 					***
 1993 	Hard Target 									****
 1993 	Cliffhanger 									***
 1993	Bad Boy Bubby									*****
@@ -737,7 +737,7 @@
 1997	I Know What You Did Last Summer
 1997	Contact
 1997	Volcano										**
-1997 	Geschwister – Kardeşler 							*****
+1997 	Geschwister - Kardeşler 							*****
 1997 	Event Horizon 									***
 1997 	Der König von St. Pauli 							****
 1997 	Knockin' on Heaven's Door 							****
@@ -1071,7 +1071,7 @@
 2005	The Hitchhiker's Guide to the Galaxy						**
 2005	Berlin am Meer
 2005	Extras										****
-2005	Sophie Scholl – Die letzten Tage						***
+2005	Sophie Scholl - Die letzten Tage						***
 2005	Border Café									****
 2005	Caché										****
 2005	The Beat That My Heart Skipped							***
