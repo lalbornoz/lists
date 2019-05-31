@@ -1,5 +1,5 @@
 Count/ISBN	Category/PRIMARY AUTHOR			TITLE
-51		In total
+52		In total
 
 10		Islam
 978-0946621507	Martin Lings				A Sufi Saint of the Twentieth Century
@@ -37,7 +37,8 @@ Count/ISBN	Category/PRIMARY AUTHOR			TITLE
 978-8437603476	Miguel de Unamuno			Niebla (Letras Hispánicas)
 978-8489693937	Juan Ramon Jimenez			Platero Y Yo: Elegia Andaluza
 
-5		Non-compliant patients ward
+6		Non-compliant patients ward
+978-3462052619	Martin Sonneborn			Herr Sonneborn geht nach Brüssel: Abenteuer im Europaparlament
 978-3534219551	Karl Albert				Platonismus. Platons Erbe und das abendländische Philosophieren
 978-0300206623	Edward Dallam Melillo			Strangers on Familiar Soil: Rediscovering the Chile-California Connection
 978-0201835953	Frederick P. Brooks Jr.			The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition (2nd Edition)
