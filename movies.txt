@@ -1397,7 +1397,7 @@
 2011	This Is England '88								***
 2011	5 Broken Cameras								*****
 2011	The Promise									***
-2011	Top Boy										*****
+2011	Top Boy: Series 1								****
 2011	Contagion
 2011	Violeta se fue a los cielos							****
 2011	Finding Ali									****
@@ -1450,6 +1450,7 @@
 2012	Zero Dark Thirty
 2012	Argo										***
 2013	Clear History									***
+2013	Top Boy: Series 2								****
 2013	5 Jahre Leben									****
 2013	Closed Circuit									***
 2013	Spark: A Burning Man Story							***
