@@ -1611,7 +1611,7 @@
 2016	Kill Command									**
 2016	Warcraft
 2016	The Last Man on Earth: Season 3							**
-2016	Tschick										**
+2016	Tschick										****
 2017	Better Call Saul: Season 3							*****
 2017	Where's the Money								*
 2017	Bruder: Schwarze Macht								**
