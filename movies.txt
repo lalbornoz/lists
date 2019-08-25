@@ -19,6 +19,7 @@
 1949	The Third Man									*****
 1950	Rashomon									******
 1950	The Asphalt Jungle								****
+1950	Das kalte Herz									****
 1950	Los Olvidados									*****
 1951	Strangers on a Train								****
 1951 	The Day The Earth Stood Still 							**
@@ -889,6 +890,7 @@
 2000	Requiem for a Dream								***
 2000	Memento										****
 2001	Taxi para tres									****
+2001	Waking Life									****
 2001	Jay and Silent Bob Strike Back
 2001	Curb your Enthusiasm: Season 2							*****
 2001	Yazgı										****
