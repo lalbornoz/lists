@@ -1,7 +1,7 @@
 Count/ISBN	Category/PRIMARY AUTHOR			TITLE
-57		In total
+58		In total
 
-12		Islam
+13		Islam
 978-0946621507	Martin Lings				A Sufi Saint of the Twentieth Century
 978-3458700067	al-Nawawi				Das Buch der Vierzig Hadithe: Kitab al-Arba'in. Mit dem Kommentar von Ibn Daqiq al-'Id
 979-3534190393	Abd Elsamad Elschazli			Das Kriterium des Handelns
@@ -12,6 +12,7 @@ Count/ISBN	Category/PRIMARY AUTHOR			TITLE
 978-0915957729	Nuh Ha MIM Keller			Reliance of the Traveller: A Classic Manual of Islamic Sacred Law
 978-0954250300	Imam Busiri				The Burda: The Poem of the Cloak
 978-9004158399	Jonathan Brown				The Canonization of al-Bukhari and Muslim 
+978-0985565930	Hamza Yusuf				The Content of Character - Ethical Sayings of the Prophet Muhammad
 978-0970284396	Hamza Yusuf				The Creed of Imam Al-Tahawi
 978-9839154108	Muhammad Asad				This Law of Ours And Other Essays
 
