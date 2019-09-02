@@ -892,6 +892,7 @@
 2000	Requiem for a Dream								***
 2000	Memento										****
 2001	Taxi para tres									****
+2001	Nirgendwo in Afrika								****
 2001	Waking Life									****
 2001	Jay and Silent Bob Strike Back
 2001	Curb your Enthusiasm: Season 2							*****
@@ -1326,6 +1327,7 @@
 2009	The Last House on the Left
 2009	Dead Man Running
 2010	Soul Kitchen									****
+2010	Zeiten ändern dich								***
 2010	Dirk Gently									***
 2010	The Boondocks: Season 3								***
 2010	Lottery Ticket									****
@@ -1582,6 +1584,7 @@
 2015	And Then There Were None							****
 2015	Mad Max Fury Road								**
 2016	Lehrstunden der Harmonie							****
+2016	A Street Cat Named Bob								****
 2016	Blockbustaz: Staffel 1								**
 2016	Plötzlich Türke									**
 2016	Fucking Berlin									**
@@ -1619,6 +1622,7 @@
 2016	The Last Man on Earth: Season 3							**
 2016	Tschick										****
 2017	Better Call Saul: Season 3							*****
+2017	Familiye									****
 2017	Sueño en otro idioma								**
 2017	Where's the Money								*
 2017	Bruder: Schwarze Macht								**
