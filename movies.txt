@@ -331,7 +331,7 @@
 1981	Taps										****
 1981	Body Heat									****
 1981	Clash of the Titans
-1981 	Lion of the Desert 								****
+1981 	Lion of the Desert 								*****
 1981	Escape from New York								****
 1981	Outland										****
 1980	The Shining 									*****
