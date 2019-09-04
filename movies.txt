@@ -782,7 +782,7 @@
 1998	Armageddon
 1998	Saving Private Ryan								****
 1998	Waking Ned Devine								***
-1998	Sphere										****
+1998	Sphere										*****
 1998	Ring										**
 1998	Dark City									****
 1998	Deep Impact
