@@ -1130,6 +1130,7 @@
 2005	Tsotsi
 2005	Syriana										****
 2006	This is England									****
+2006	Elementarteilchen								****
 2006	The Namesake									****
 2006	Clerks II									**
 2006	Idiocracy									***
