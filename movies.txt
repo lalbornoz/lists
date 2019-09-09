@@ -567,6 +567,7 @@
 1991	The Silence of the Lambs							***
 1991	Cape Fear									****
 1992	Reservoir Dogs									***
+1992	Schtonk!									****
 1992	Malcolm X									****
 1992	Deep Cover									****
 1992	Universal Soldier								***
@@ -1626,6 +1627,7 @@
 2016	The Last Man on Earth: Season 3							**
 2016	Tschick										****
 2017	Better Call Saul: Season 3							*****
+2017	Happy Burnout									***
 2017	Familiye									****
 2017	Sueño en otro idioma								**
 2017	Where's the Money								*
