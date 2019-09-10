@@ -1463,6 +1463,7 @@
 2012	Zero Dark Thirty
 2012	Argo										***
 2013	Clear History									***
+2013	Fruitvale Station								****
 2013	Top Boy: Series 2								****
 2013	5 Jahre Leben									****
 2013	Closed Circuit									***
@@ -1660,6 +1661,7 @@
 2017	4 Blocks: Season 1								*****
 2017	Fist Fight									***
 2018	Annihilation
+2018	Head Full of Honey								****
 2018	Unterwerfung									***
 2018	Blockbustaz: Staffel 2								****
 2018	Yardie										***
