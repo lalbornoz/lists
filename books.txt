@@ -1,5 +1,5 @@
 Count/ISBN	Category/PRIMARY AUTHOR			TITLE
-58		In total
+57		In total
 
 13		Islam
 978-0946621507	Martin Lings				A Sufi Saint of the Twentieth Century
@@ -49,7 +49,7 @@ Count/ISBN	Category/PRIMARY AUTHOR			TITLE
 978-1594488856	The RZA					The Tao of Wu
 978-3495486566	Stefano Micali				Wolfgang Blankenburg - Psychiatrie und Phänomenologie
 
-18		Novels, short stories
+17		Novels, short stories
 978-1539975687	Wilhelm Hauff				Das kalte Herz: Ein Märchen
 978-3596181162	Franz Kafka				Das Schloß: Roman
 978-1561310326	Ismail Kadare				Doruntine
@@ -60,7 +60,6 @@ Count/ISBN	Category/PRIMARY AUTHOR			TITLE
 978-3518367742	Hermann Hesse				Narziß und Goldmund
 978-1503055582	Fyodor Dostoevsky			Notes from the Underground
 978-0679730675	Edward W. Said				Out of Place: A Memoir
-978-0553088533	Neal Stephenson				Snow Crash
 978-1612190877	Ameen Rihani				The Book of Khalid
 978-0141028590	Sathnam Sanghera			The Boy with the Topknot: A Memoir of Love, Secrets and Lies in Wolverhampton
 978-0553380644	Tom Wolfe				The Electric Kool-Aid Acid Test
