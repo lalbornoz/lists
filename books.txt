@@ -1,7 +1,7 @@
 Count/ISBN	Category/PRIMARY AUTHOR			TITLE
-57		In total
+58		In total
 
-13		Islam
+14		Islam
 978-0946621507	Martin Lings				A Sufi Saint of the Twentieth Century
 978-3458700067	al-Nawawi				Das Buch der Vierzig Hadithe: Kitab al-Arba'in. Mit dem Kommentar von Ibn Daqiq al-'Id
 979-3534190393	Abd Elsamad Elschazli			Das Kriterium des Handelns
@@ -9,6 +9,7 @@ Count/ISBN	Category/PRIMARY AUTHOR			TITLE
 978-3406467387	Navid Kermani				Gott ist schön: Das ästhetische Erleben des Koran
 		Abd Elsamad Elschazli			Kants kritische Philosophie und das Problem der Offenbarung
 978-3205993933	Günther Windhager			Leopold Weiss alias Muhammad Asad. Von Galizien nach Arabien 1900 - 1927
+978-1929694150	Hamza Yusuf				Purification of the Heart: Signs, Symptoms and Cures of the Spiritual Diseases of the Heart
 978-0915957729	Nuh Ha MIM Keller			Reliance of the Traveller: A Classic Manual of Islamic Sacred Law
 978-0954250300	Imam Busiri				The Burda: The Poem of the Cloak
 978-9004158399	Jonathan Brown				The Canonization of al-Bukhari and Muslim 
