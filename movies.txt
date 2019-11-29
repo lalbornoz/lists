@@ -945,6 +945,7 @@
 2001	Das Weiße Rauschen								*****
 2001	Piñero
 2002	Divine Intervention								****
+2002	Catch Me If You Can								****
 2002	Curb your Enthusiasm: Season 3							*****
 2002	Spun
 2002	About Schmidt									***
@@ -1446,6 +1447,7 @@
 2011 	Rampart 									***
 2011	The Sinking of the Laconia							***
 2012 	Yes, We Can 									***
+2012	Flight										***
 2012	Berberian Sound Studio								****
 2012	Scam City: Season 1
 2012	Wadjda										****
@@ -1525,6 +1527,7 @@
 2013	Mama										*
 2013	Starred Up									****
 2014	Prey										****
+2014	Non-Stop									**
 2014	Imperial Dreams									****
 2014	Blockbustaz: Staffel 0								***
 2014	Stereo										*****
