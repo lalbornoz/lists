@@ -142,7 +142,7 @@
 1969	Topaz										*
 1969	Katzelmacher									****
 1969	La Voie lactée									***
-1969	Monty Python's Flying Circus							****
+1969	Monty Python's Flying Circus: Season 1						*****
 1969	On Her Majesty's Secret Service
 1969 	Take the Money and Run 								****
 1969 	Easy Rider 									****
@@ -156,6 +156,7 @@
 1970 	Satanis, The Devil's Mass 							****
 1970	Cotton Comes to Harlem
 1970	The Landlord									****
+1970	Monty Python's Flying Circus: Season 2						*****
 1971	THX 1138									****
 1971	Goya - oder der arge Weg der Erkenntnis						****
 1971	Fists of Fury									****
@@ -176,6 +177,7 @@
 1971	The Panic in Needle Park							***
 1971	Sweet Sweetback's Baadasssss Song						******
 1972	The Godfather									******
+1972	Monty Python's Flying Circus: Season 3						*****
 1972	Way of the Dragon								*****
 1972	Trouble Man									***
 1972	The Valachi Papers
@@ -213,6 +215,7 @@
 1973	Serpico										*****
 1973	The Holy Mountain								****
 1974	Foxy Brown									****
+1974	Monty Python's Flying Circus: Season 4						***
 1974	Dark Star
 1974	The Texas Chain Saw Massacre							***
 1974	Willie Dynamite
