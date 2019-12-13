@@ -233,7 +233,7 @@
 1975	One Flew Over the Cuckoo's Nest							******
 1975	A Boy and his Dog								***
 1975 	Monty Python and the Holy Grail 						****
-1975 	Fawlty Towers 									*****
+1975 	Fawlty Towers: Series 1 							*****
 1975 	The Noah 									****
 1975 	Mandingo 									***
 1975	Boss Nigger									***
@@ -289,6 +289,7 @@
 1978	Straight Time									**
 1978	Blue Collar									******
 1979	Stalker										******
+1979 	Fawlty Towers: Series 2 							*****
 1979	Raining in the Mountain								****
 1979	Star Trek: The Motion Picture
 1979	The Bodyguard									*****
