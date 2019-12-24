@@ -1126,7 +1126,7 @@
 2005	The Great Raid
 2005	Broken Flowers
 2005	The Jacket									***
-2005	Jarhead
+2005	Jarhead										**
 2005	Edmond
 2005	Dark Water									**
 2005	Revolver
@@ -1451,6 +1451,7 @@
 2011 	Rampart 									***
 2011	The Sinking of the Laconia							***
 2012 	Yes, We Can 									***
+2012	The Dictator									***
 2012	Flight										***
 2012	Berberian Sound Studio								****
 2012	Scam City: Season 1
