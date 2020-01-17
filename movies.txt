@@ -905,6 +905,7 @@
 2000	Requiem for a Dream								***
 2000	Memento										****
 2001	Taxi para tres									****
+2001	Kiss of the Dragon								***
 2001	Nirgendwo in Afrika								****
 2001	Waking Life									****
 2001	Jay and Silent Bob Strike Back
@@ -1620,6 +1621,7 @@
 2015	And Then There Were None							****
 2015	Mad Max Fury Road								**
 2016	Lehrstunden der Harmonie							****
+2016	Birth of the Dragon								**
 2016	Mars: Season 1									***
 2016	Sand Storm									**
 2016	A Street Cat Named Bob								****
