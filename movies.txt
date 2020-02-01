@@ -1701,6 +1701,7 @@
 2017	4 Blocks: Season 1								*****
 2017	Fist Fight									***
 2018	Annihilation
+2018	Close Enemies									**
 2018	Mars: Season 2									****
 2018	The Cloverfield Paradox								**
 2018	Green Book									***
