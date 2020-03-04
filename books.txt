@@ -1,5 +1,5 @@
 Count/ISBN	Category/PRIMARY AUTHOR			TITLE
-63		In total
+64		In total
 
 15		Islam
 978-0946621507	Martin Lings				A Sufi Saint of the Twentieth Century
@@ -28,10 +28,11 @@ Count/ISBN	Category/PRIMARY AUTHOR			TITLE
 978-0931340888	Habib Hassan Toouma			The Music of the Arabs
 978-8496327412	Al-Mutanabbi				Tiempo sin tregua (101 poemas)
 
-13		Libros hispanos
+14		Libros hispanos
 978-0814713594	Linda Fish Compton			Andalusian Lyrical Poetry and Old Spanish Love Songs
 978-8417423018	Joan Brossa Cuervo			Antologia de poemes de revolta (1943 - 1978)
 978-8424923969	Federico Corriente Córdoba		Diccionario de arabismos y voces afines en iberorromance
+978-8433973252	Roberto Bolaño				El gaucho insufrible
 978-8497612517	Isma il b. Muhammad al Saqundi		Elogio del islam español
 978-8420682105	Abd Allah ibn Buluggin			El siglo XI en primera persona : Las memorias de 'Abd Allah, último rey Zirí de Granada destronado por los almorávides (1090)
 978-8481646368	Américo Castro				España en su historia : ensayos sobre historia y literatura
