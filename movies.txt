@@ -820,6 +820,7 @@
 1998	Kurz und schmerzlos								******
 1998	Croupier
 1999	Fight Club									***
+1999	The Sopranos: Season 1								****
 1999	Life										****
 1999	Asterix & Obelix Take On Caesar							****
 1999	After the Rain									******
@@ -865,6 +866,7 @@
 1999	Office Space
 1999	The Boondock Saints								***
 2000	Im Juli										***
+2000	The Sopranos: Season 2								***
 2000	Schule										***
 2000	Ali Zaoua: Prince of the Streets						****
 2000	Curb your Enthusiasm: Season 1							*****
