@@ -1,5 +1,5 @@
 Count/ISBN	Category/PRIMARY AUTHOR			TITLE
-66		In total
+67		In total
 
 15		Islam
 978-0946621507	Martin Lings				A Sufi Saint of the Twentieth Century
@@ -56,12 +56,13 @@ Count/ISBN	Category/PRIMARY AUTHOR			TITLE
 978-1594488856	The RZA					The Tao of Wu
 978-3495486566	Stefano Micali				Wolfgang Blankenburg - Psychiatrie und Phänomenologie
 
-19		Novels, short stories
+20		Novels, short stories
 978-1539975687	Wilhelm Hauff				Das kalte Herz: Ein Märchen
 978-3596181162	Franz Kafka				Das Schloß: Roman
 978-1561310326	Ismail Kadare				Doruntine
 978-0140435313	Edwin Abbott				Flatland: A Romance of Many Dimensions by A. Square
 978-0140445503	Francois Rabelais			Gargantua and Pantagruel
+978-0743477123	William Shakespeare			Hamlet (Folger Library Shakespeare)
 978-0812969641	Marcel Proust				In Search of Lost Time
 978-9681604042	Jorge Luis Borges			Manual de zoología fantástica
 978-9774164835	Naguib Mahfouz				Midaq Alley
