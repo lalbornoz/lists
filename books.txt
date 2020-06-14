@@ -1,7 +1,8 @@
 Count/ISBN	Category/PRIMARY AUTHOR			TITLE
-69		In total
+70		In total
 
-16		Islam
+17		Islam
+978-1590080115	al-Nawawi et al				Al-Maqasid: Nawawi's Manual of Islam
 978-0946621507	Martin Lings				A Sufi Saint of the Twentieth Century
 978-3458700067	al-Nawawi				Das Buch der Vierzig Hadithe: Kitab al-Arba'in. Mit dem Kommentar von Ibn Daqiq al-'Id
 979-3534190393	Abd Elsamad Elschazli			Das Kriterium des Handelns
