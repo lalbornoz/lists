@@ -689,7 +689,7 @@
 1995 	Dead Presidents 								****
 1995	Die Hard: With a Vengeance							***
 1995	Dead Man Walking
-1995 	Higher Learning 								***
+1995 	Higher Learning 								**
 1995	Sudden Death									***
 1995	Dead Man									****
 1995	Four Rooms
@@ -873,6 +873,7 @@
 1999	Office Space
 1999	The Boondock Saints								***
 2000	Im Juli										***
+2000	Bamboozled
 2000	The Sopranos: Season 2								***
 2000	Schule										***
 2000	Ali Zaoua: Prince of the Streets						****
