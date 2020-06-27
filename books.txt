@@ -1,5 +1,5 @@
 Count/ISBN	Category/PRIMARY AUTHOR			TITLE
-70		In total
+71		In total
 
 17		Islam
 978-1590080115	al-Nawawi et al				Al-Maqasid: Nawawi's Manual of Islam
@@ -59,7 +59,7 @@ Count/ISBN	Category/PRIMARY AUTHOR			TITLE
 978-1594488856	The RZA					The Tao of Wu
 978-3495486566	Stefano Micali				Wolfgang Blankenburg - Psychiatrie und Phänomenologie
 
-20		Novels, short stories
+21		Novels, short stories
 978-1539975687	Wilhelm Hauff				Das kalte Herz: Ein Märchen
 978-3596181162	Franz Kafka				Das Schloß: Roman
 978-1561310326	Ismail Kadare				Doruntine
@@ -75,6 +75,7 @@ Count/ISBN	Category/PRIMARY AUTHOR			TITLE
 978-0679730675	Edward W. Said				Out of Place: A Memoir
 978-1612190877	Ameen Rihani				The Book of Khalid
 978-0141028590	Sathnam Sanghera			The Boy with the Topknot: A Memoir of Love, Secrets and Lies in Wolverhampton
+978-0199535620	Geoffrey Chaucer et al			The Canterbury Tales
 978-0553380644	Tom Wolfe				The Electric Kool-Aid Acid Test
 978-9931325567	Kamel Daoud				The Meursault Investigation
 978-1583228715	Seba Al-Herz				The Others
