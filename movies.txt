@@ -292,6 +292,7 @@
 1978	Straight Time									**
 1978	Blue Collar									******
 1979	Stalker										******
+1979	Beyond the Poseidon Adventure							**
 1979 	Fawlty Towers: Series 2 							*****
 1979	Raining in the Mountain								****
 1979	Star Trek: The Motion Picture
