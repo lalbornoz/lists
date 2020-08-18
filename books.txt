@@ -1,5 +1,5 @@
 Count/ISBN	Category/PRIMARY AUTHOR			TITLE
-72		In total
+73		In total
 
 17		Islam
 978-1590080115	al-Nawawi et al				Al-Maqasid: Nawawi's Manual of Islam
@@ -46,9 +46,10 @@ Count/ISBN	Category/PRIMARY AUTHOR			TITLE
 978-8437603476	Miguel de Unamuno			Niebla (Letras Hispánicas)
 978-8489693937	Juan Ramon Jimenez			Platero Y Yo: Elegia Andaluza
 
-12		Non-compliant patients ward
+13		Non-compliant patients ward
 978-0812979688	Nassim Nicholas Taleb			Antifragile: Things That Gain From Disorder
 978-0300180282	Tim Mackintosh-Smith			Arabs: A 3,000-Year History of Peoples, Tribes and Empires
+978-3931659509	Daniel Paul Schreber			Denkwürdigkeiten eines Nervenkranken
 978-0879237738	Noel Perrin				Giving Up the Gun: Japan's Reversion to the Sword, 1543-1879
 978-3462052619	Martin Sonneborn			Herr Sonneborn geht nach Brüssel: Abenteuer im Europaparlament
 978-3522713801	Michael Ende				Michael Endes Zettelkasten. Skizzen und Notizen
