@@ -860,7 +860,7 @@
 1999 	Dealer 										****
 1999 	Life 										***
 1999 	Being John Malkovich 								****
-1999 	The Mummy 									**
+1999 	The Mummy
 1999 	Pimps up, Hos down 								**
 1999 	Thicker than Water 								***
 1999	American Pimp									***
