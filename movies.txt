@@ -1490,7 +1490,6 @@
 2012	The Reluctant Fundamentalist							*****
 2012	Room 237									***
 2012	Snow on tha Bluff								****
-2012	Continuum: Season 1								***
 2012	Man on a Ledge									**
 2012	Bad Ass										****
 2012	Sample This									****
@@ -1524,7 +1523,6 @@
 2013	The Tomorrow People: Season 1
 2013	Defiance: Season 1								**
 2013	The Butler									***
-2013	Continuum: Season 2								***
 2013	The Fifth Estate								***
 2013	World War Z
 2013	Locke										***
@@ -1570,7 +1568,6 @@
 2014	Blockbustaz: Staffel 0								***
 2014	Stereo										*****
 2014	Extant: Season 1
-2014	Continuum: Season 3								**
 2014	Autómata									****
 2014	Nicht Mein Tag									***
 2014	Reality										**
@@ -1613,7 +1610,6 @@
 2015	Dope										***
 2015	En man som heter Ove								****
 2015	12 Monkeys: Season 1								**
-2015	Continuum: Season 4								**
 2015	Dark Matter: Season 1								***
 2015	The Expanse: Season 1								******
 2015	Sicario										***
