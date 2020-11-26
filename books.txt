@@ -1,5 +1,5 @@
 Count/ISBN	Category/PRIMARY AUTHOR			TITLE
-78		In total
+79		In total
 
 17		Islam
 978-1590080115	al-Nawawi et al				Al-Maqasid: Nawawi's Manual of Islam
@@ -65,7 +65,7 @@ Count/ISBN	Category/PRIMARY AUTHOR			TITLE
 978-9004356238	Nawal Nasrallah				Treasure Trove of Benefits and Variety at the Table: A Fourteenth-Century Egyptian Cookbook
 978-3495486566	Stefano Micali				Wolfgang Blankenburg - Psychiatrie und Phänomenologie
 
-22		Novels, short stories
+23		Novels, short stories
 978-1539975687	Wilhelm Hauff				Das kalte Herz: Ein Märchen
 978-3596181162	Franz Kafka				Das Schloß: Roman
 978-1561310326	Ismail Kadare				Doruntine
@@ -80,6 +80,7 @@ Count/ISBN	Category/PRIMARY AUTHOR			TITLE
 978-3518367742	Hermann Hesse				Narziß und Goldmund
 978-1503055582	Fyodor Dostoevsky			Notes from the Underground
 978-0679730675	Edward W. Said				Out of Place: A Memoir
+978-0811220361	Sonallah Ibrahim et al			That Smell and Notes from Prison
 978-1612190877	Ameen Rihani				The Book of Khalid
 978-0141028590	Sathnam Sanghera			The Boy with the Topknot: A Memoir of Love, Secrets and Lies in Wolverhampton
 978-0199535620	Geoffrey Chaucer et al			The Canterbury Tales
