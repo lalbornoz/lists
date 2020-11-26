@@ -1,7 +1,7 @@
 Count/ISBN	Category/PRIMARY AUTHOR			TITLE
-79		In total
+80		In total
 
-17		Islam
+18		Islam
 978-1590080115	al-Nawawi et al				Al-Maqasid: Nawawi's Manual of Islam
 978-0946621507	Martin Lings				A Sufi Saint of the Twentieth Century
 978-3458700067	al-Nawawi				Das Buch der Vierzig Hadithe: Kitab al-Arba'in. Mit dem Kommentar von Ibn Daqiq al-'Id
@@ -19,6 +19,7 @@ Count/ISBN	Category/PRIMARY AUTHOR			TITLE
 978-0970284396	Hamza Yusuf				The Creed of Imam Al-Tahawi
 978-0946621354	Abu Madyan Shuayb			The Way of Abu Madyan: The Works of Abu Madyan Shuayb
 978-9839154108	Muhammad Asad				This Law of Ours And Other Essays
+978-0882065007	Seyyed Hossein Nasr			Three Muslim Sages: Avicenna-Suhrawardi-Ibn Arabi
 
 9		Language, music, poetry
 978-0521092579	A. J. Arberry				Arabic Poetry: A Primer for Students
