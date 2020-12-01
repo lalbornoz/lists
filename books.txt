@@ -1,7 +1,7 @@
 Count/ISBN	Category/PRIMARY AUTHOR			TITLE
-81		In total
+82		In total
 
-18		Islam
+19		Islam
 978-1590080115	al-Nawawi et al				Al-Maqasid: Nawawi's Manual of Islam
 978-0946621507	Martin Lings				A Sufi Saint of the Twentieth Century
 978-3458700067	al-Nawawi				Das Buch der Vierzig Hadithe: Kitab al-Arba'in. Mit dem Kommentar von Ibn Daqiq al-'Id
@@ -13,6 +13,7 @@ Count/ISBN	Category/PRIMARY AUTHOR			TITLE
 978-9698460419	Muhammad Asad et al			Homecoming of the Heart (1932-1992): Of the Road to Mecca Part 2
 978-1929694150	Hamza Yusuf				Purification of the Heart: Signs, Symptoms and Cures of the Spiritual Diseases of the Heart
 978-0915957729	Nuh Ha MIM Keller			Reliance of the Traveller: A Classic Manual of Islamic Sacred Law
+978-1590080665	Nuh Ha MIM Keller			Sea Without Shore: A Manual of the Sufi Path
 978-0954250300	Imam Busiri				The Burda: The Poem of the Cloak
 978-9004158399	Jonathan Brown				The Canonization of al-Bukhari and Muslim 
 978-0985565930	Hamza Yusuf				The Content of Character - Ethical Sayings of the Prophet Muhammad
