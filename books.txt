@@ -1,7 +1,7 @@
 Count/ISBN	Category/PRIMARY AUTHOR			TITLE
-90		In total
+91		In total
 
-26		Islam
+27		Islam
 978-1941610435	al-Ghazali et al			Al-Ghazali the Mysteries of Charity and the Mysteries of Fasting: Book 5 & 6 of Ihya' 'ulum Al-Din, the Revival of the Religious Sciences 
 978-1941610312	al-Ghazali et al			Al-Ghazali: the Mysteries of Purification: Book 3 of the Revival of the Religious Sciences
 978-1590080115	al-Nawawi et al				Al-Maqasid: Nawawi's Manual of Islam
@@ -23,6 +23,7 @@ Count/ISBN	Category/PRIMARY AUTHOR			TITLE
 978-9004158399	Jonathan Brown				The Canonization of al-Bukhari and Muslim 
 978-0985565930	Hamza Yusuf				The Content of Character - Ethical Sayings of the Prophet Muhammad
 978-0970284396	Hamza Yusuf				The Creed of Imam Al-Tahawi
+978-1891785283	Ahmad Ibn 'Ajiba			The Immense Ocean: Al-Bahr Al-Madid
 978-1941610350	al-Ghazali et al			The Mysteries of the Prayer and Its Important Elements: Book 4 of Ihya' 'ulum Al-Din, the Revival of the Religious Sciences
 978-1941610169	al-Ghazali et al			The Principles of the Creed: Book 2 of the Revival of the Religious Sciences (Ihya ulum al-din / The Revival of the Religious Sciences
 978-0946621354	Abu Madyan Shuayb			The Way of Abu Madyan: The Works of Abu Madyan Shuayb
