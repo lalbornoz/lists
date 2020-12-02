@@ -1,7 +1,7 @@
 Count/ISBN	Category/PRIMARY AUTHOR			TITLE
-91		In total
+93		In total
 
-27		Islam
+29		Islam
 978-1941610435	al-Ghazali et al			Al-Ghazali the Mysteries of Charity and the Mysteries of Fasting: Book 5 & 6 of Ihya' 'ulum Al-Din, the Revival of the Religious Sciences 
 978-1941610312	al-Ghazali et al			Al-Ghazali: the Mysteries of Purification: Book 3 of the Revival of the Religious Sciences
 978-1590080115	al-Nawawi et al				Al-Maqasid: Nawawi's Manual of Islam
@@ -10,10 +10,12 @@ Count/ISBN	Category/PRIMARY AUTHOR			TITLE
 979-3534190393	Abd Elsamad Elschazli			Das Kriterium des Handelns
 978-3458710332	Thomas Bauer				Die Kultur der Ambiguität
 978-8496847743	M. Ali Kettani				El resurgir del Islam en al-Ándalus. Cómo lograron los andalusíes conservar su religión e identidad islámicas desde la caída de Granada hasta nuestros días
+978-1974097715	Ibn Hazm et al				Foundational Islamic Principles 
 978-3406467387	Navid Kermani				Gott ist schön: Das ästhetische Erleben des Koran
 		Abd Elsamad Elschazli			Kants kritische Philosophie und das Problem der Offenbarung
 978-3205993933	Günther Windhager			Leopold Weiss alias Muhammad Asad. Von Galizien nach Arabien 1900 - 1927
 978-1887752312	al-Ghazali et al			MARVELS OF THE HEART: The Revival of the Religious Sciences 
+978-1984152466	Ibn Hazm Al Andaloosee et al		Morals & Behaviours - Al Akhlaq Wa Al-Siyar
 978-9698460419	Muhammad Asad et al			Homecoming of the Heart (1932-1992): Of the Road to Mecca Part 2
 978-1929694150	Hamza Yusuf				Purification of the Heart: Signs, Symptoms and Cures of the Spiritual Diseases of the Heart
 978-0915957729	Nuh Ha MIM Keller			Reliance of the Traveller: A Classic Manual of Islamic Sacred Law
