@@ -1,5 +1,5 @@
 Count/ISBN	Category/PRIMARY AUTHOR			TITLE
-94		In total
+95		In total
 
 29		Islam
 978-1941610435	al-Ghazali et al			Al-Ghazali the Mysteries of Charity and the Mysteries of Fasting: Book 5 & 6 of Ihya' 'ulum Al-Din, the Revival of the Religious Sciences 
@@ -32,13 +32,14 @@ Count/ISBN	Category/PRIMARY AUTHOR			TITLE
 978-9839154108	Muhammad Asad				This Law of Ours And Other Essays
 978-0882065007	Seyyed Hossein Nasr			Three Muslim Sages: Avicenna-Suhrawardi-Ibn Arabi
 
-9		Language, music, poetry
+10		Language, music, poetry
 978-0521092579	A. J. Arberry				Arabic Poetry: A Primer for Students
 978-9774166136	Nariman Naili Al-Warraki		Building Arabic Vocabulary Through Reading
 978-0521542067	Hormoz Farhat				Dastgah Concept in Persian Music
 978-3866479265	Rainer Maria Rilke			Rainer Maria Rilke - Gesammelte Werke
 978-0140444346	Farid Attar				The Conference of the Birds
 978-0500514627	Farah K. Behbehani			The Conference of the Birds: A Study of Farid ud-Din Attar's Poem Using Jali Diwani Calligraphy
+978-9953015873	Kamal Salibi et all			The Historicity of Biblical Israel: Studies in 1 & 2 Samuel, 2nd Edition
 978-0931340888	Habib Hassan Toouma			The Music of the Arabs
 978-8496327412	Al-Mutanabbi				Tiempo sin tregua (101 poemas)
 978-0954497552	Walid Khazendar				Traces of Song: Selections from Ancient Arabic Poetry
