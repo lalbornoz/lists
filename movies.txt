@@ -120,6 +120,7 @@
 1966 	Sword of Doom 									****
 1966	The Good, the Bad, and the Ugly							*****
 1967	In the Heat of the Night							****
+1967	God Forgives... I Don't!							***
 1967	Tuktu										****
 1967	Lo straniero									***
 1967	La Permission									****
@@ -159,6 +160,7 @@
 1970	Cotton Comes to Harlem								****
 1970	The Landlord									****
 1970	Monty Python's Flying Circus: Season 2						*****
+1970	They Call Me Trinity								****
 1971	THX 1138									****
 1971	A Clockwork Orange
 1971	Goya - oder der arge Weg der Erkenntnis						****
@@ -170,8 +172,8 @@
 1971	Korol Lir									***
 1971	Walkabout									****
 1971	And Now For Something Completely Different
-1971	They call me Trinity								***
 1971	Dirty Harry									*
+1971	Trinity Is Still My Name							***
 1971 	Diamonds are Forever 								**
 1971	The Last Picture Show								****
 1971	The Andromeda Strain								****
@@ -181,6 +183,7 @@
 1971	Sweet Sweetback's Baadasssss Song						******
 1972	The Godfather									******
 1972	The Canterbury Tales								*****
+1972	The Discreet Charm of the Bourgeoisie						****
 1972	The Harder They Come								*****
 1972	Monty Python's Flying Circus: Season 3						*****
 1972	Way of the Dragon								*****
