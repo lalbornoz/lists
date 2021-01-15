@@ -815,7 +815,7 @@
 1998	What Dreams May Come								***
 1998	The Siege									****
 1998	Hartes Blut									****
-1998	Armageddon
+1998	Armageddon									**
 1998	Saving Private Ryan								****
 1998	Waking Ned Devine								***
 1998	Sphere										*****
@@ -891,6 +891,7 @@
 1999	Office Space									****
 1999	The Boondock Saints								***
 2000	Im Juli										***
+2000	Red Planet									***
 2000	Bamboozled
 2000	The Sopranos: Season 2								***
 2000	Schule										***
@@ -1661,6 +1662,8 @@
 2015	And Then There Were None							****
 2015	Mad Max Fury Road								**
 2016	Lehrstunden der Harmonie							****
+2016	The Lost City of Z								***
+2016	Approaching the Unknown								****
 2016	Marco Polo: Season 2								*
 2016	Birth of the Dragon								**
 2016	Mars: Season 1									***
@@ -1770,6 +1773,7 @@
 2018	4 Blocks: Season 2								*****
 2018	Unsolved									***
 2019	Trigger Warning with Killer Mike						****
+2019	Ad Astra									****
 2019	True Detective: Season 3							*
 2019	Atlantique									****
 2019	Uncut Gems									**
