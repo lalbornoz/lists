@@ -934,6 +934,7 @@
 2000	Requiem for a Dream								***
 2000	Memento										****
 2001	Taxi para tres									****
+2001	Artificial Intelligence								*
 2001	Stranded									****
 2001	Kiss of the Dragon								***
 2001	Nirgendwo in Afrika								****
@@ -1746,6 +1747,7 @@
 2017	4 Blocks: Season 1								*****
 2017	Fist Fight									***
 2018	Annihilation
+2018	2036 Origin Unknown								***
 2018	The Predator
 2018	Better Call Saul: Season 4							****
 2018	Asphaltgorillas									**
