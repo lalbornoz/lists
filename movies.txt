@@ -1182,6 +1182,7 @@
 2005	Tsotsi
 2005	Syriana										****
 2006	This is England									****
+2006	Unknown										**
 2006	Elementarteilchen								****
 2006	The Namesake									****
 2006	Clerks II									**
@@ -1748,6 +1749,7 @@
 2017	4 Blocks: Season 1								*****
 2017	Fist Fight									***
 2018	Annihilation
+2018	The Bit Player
 2018	First Man									***
 2018	2036 Origin Unknown								***
 2018	The Predator
@@ -1800,10 +1802,12 @@
 2019	Patriot Act with Hasan Minhaj: Season 2						*****
 2019	Black Mirror: Season 5								*****
 2019	The Witcher: Season 1								***
+2019	The Expanse: Season 4								******
 2020	Curb your Enthusiasm: Season 10							****
 2020	Better Call Saul: Season 5							*****
 2020	Man Like Mobeen: Series Three							*****
 2020	Death to 2020									****
+2021	The Expanse: Season 5								******
 
 ----------------------------------------------------------------------	Shite to mediocre
 	Unwatchable, shite, garbage, nonsense
