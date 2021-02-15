@@ -4,6 +4,8 @@
 1940	The Grapes of Wrath								*****
 1941	Citizen Kane									******
 1942	Casablanca									***
+1942	Pittsburgh									****
+1942	Stand By for Action								***
 1943 	Der Fuehrer's Face 								****
 1946	Notorious									***
 1945	The House on 92nd Street							****
@@ -352,6 +354,7 @@
 1981	Outland										****
 1980	The Shining 									*****
 1982	Vice Squad									**
+1982	Dead Easy									***
 1982	Things are Tough all Over							***
 1982	An Egyptian Story								***
 1982	Here Comes Garfield								****
@@ -1807,7 +1810,11 @@
 2020	Better Call Saul: Season 5							*****
 2020	Man Like Mobeen: Series Three							*****
 2020	Death to 2020									****
+2020	Father's Daze									***
 2021	The Expanse: Season 5								******
+2021	Red Dot										**
+2021	Heavy										**
+2021	Judas and the Black Messiah							***
 
 ----------------------------------------------------------------------	Shite to mediocre
 	Unwatchable, shite, garbage, nonsense
