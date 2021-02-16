@@ -1391,6 +1391,7 @@
 2009	The Last House on the Left
 2009	Dead Man Running
 2010	Soul Kitchen									****
+2010	127 Hours									*
 2010	Robin Hood									***
 2010	Neue Vahr Süd									***
 2010	It's Kind of a Funny Story							****
@@ -1810,11 +1811,14 @@
 2020	Better Call Saul: Season 5							*****
 2020	Man Like Mobeen: Series Three							*****
 2020	Death to 2020									****
+2020	Lapsis										****
 2020	Father's Daze									***
 2021	The Expanse: Season 5								******
 2021	Red Dot										**
 2021	Heavy										**
 2021	Judas and the Black Messiah							***
+2021	Wrong Turn									**
+2021	Calm Before									*
 
 ----------------------------------------------------------------------	Shite to mediocre
 	Unwatchable, shite, garbage, nonsense
