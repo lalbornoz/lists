@@ -300,6 +300,7 @@
 1978	Straight Time									**
 1978	Blue Collar									******
 1979	Stalker										******
+1979	Money Movers									****
 1979	Beyond the Poseidon Adventure							**
 1979 	Fawlty Towers: Series 2 							*****
 1979	Raining in the Mountain								****
@@ -1185,6 +1186,7 @@
 2005	Tsotsi
 2005	Syriana										****
 2006	This is England									****
+2006	Walkout										****
 2006	Unknown										**
 2006	Elementarteilchen								****
 2006	The Namesake									****
@@ -1819,6 +1821,7 @@
 2021	Judas and the Black Messiah							***
 2021	Wrong Turn									**
 2021	Calm Before									*
+2021	The Mauritanian									****
 
 ----------------------------------------------------------------------	Shite to mediocre
 	Unwatchable, shite, garbage, nonsense
