@@ -1,7 +1,7 @@
 Count/ISBN	Category/PRIMARY AUTHOR			TITLE
-95		In total
+96		In total
 
-29		Islam
+30		Islam
 978-1941610435	al-Ghazali et al			Al-Ghazali the Mysteries of Charity and the Mysteries of Fasting: Book 5 & 6 of Ihya' 'ulum Al-Din, the Revival of the Religious Sciences 
 978-1941610312	al-Ghazali et al			Al-Ghazali: the Mysteries of Purification: Book 3 of the Revival of the Religious Sciences
 978-1590080115	al-Nawawi et al				Al-Maqasid: Nawawi's Manual of Islam
@@ -21,6 +21,7 @@ Count/ISBN	Category/PRIMARY AUTHOR			TITLE
 978-0915957729	Nuh Ha MIM Keller			Reliance of the Traveller: A Classic Manual of Islamic Sacred Law
 978-1590080665	Nuh Ha MIM Keller			Sea Without Shore: A Manual of the Sufi Path
 978-1941610152	al-Ghazali et al			The Book of Knowledge: The Revival of the Religious Sciences Volume I: Part I
+978-1999377502	Shaykh Abu Mansoor al-Maturidi et al	The Book of Monotheism Kitaab At-Tawheed: God and the Universe - A Manual of Sunni Theology
 978-0954250300	Imam Busiri				The Burda: The Poem of the Cloak
 978-9004158399	Jonathan Brown				The Canonization of al-Bukhari and Muslim 
 978-0985565930	Hamza Yusuf				The Content of Character - Ethical Sayings of the Prophet Muhammad
