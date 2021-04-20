@@ -1814,9 +1814,12 @@
 2019	The Witcher: Season 1								***
 2019	The Expanse: Season 4								******
 2020	Curb your Enthusiasm: Season 10							****
+2020	Concrete Cowboy									***
+2020	Infamous
 2020	Better Call Saul: Season 5							*****
 2020	Man Like Mobeen: Series Three							*****
 2020	Death to 2020									****
+2020	Original Gangster
 2020	Lapsis										****
 2020	Father's Daze									***
 2021	The Expanse: Season 5								******
@@ -1826,6 +1829,9 @@
 2021	Wrong Turn									**
 2021	Calm Before									*
 2021	The Mauritanian									****
+2021	Nobody										***
+2021	The Courier									**
+2021	The Marksman									***
 
 ----------------------------------------------------------------------	Shite to mediocre
 	Unwatchable, shite, garbage, nonsense
