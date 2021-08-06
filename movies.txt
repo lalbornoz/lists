@@ -815,6 +815,7 @@
 1997	Gattaca										***
 1997	Sue										****
 1998	American History X								***
+1998	I Got the Hook-Up								****
 1998	The Johnny Vegas Television Show						****
 1998	Shadow Run									**
 1998	Belly										***
@@ -1794,6 +1795,7 @@
 2018	4 Blocks: Season 2								*****
 2018	Unsolved									***
 2019	Trigger Warning with Killer Mike						****
+2019	I Got the Hook Up 2								**
 2019	Star Wars: The Rise of Skywalker
 2019	Ad Astra									****
 2019	True Detective: Season 3							*
