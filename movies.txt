@@ -444,6 +444,8 @@
 1985	Krush Groove									***
 1985	Brazil
 1986	Blue Velvet									***
+1986	Jean de Florette								*****
+1986	Manon des Sources								****
 1986	Elhaimoune									******
 1986	Mona Lisa									****
 1986	Garfield in Paradise								****
@@ -1042,7 +1044,9 @@
 2002	Heaven										**
 2002	25th Hour									****
 2002	Together									***
+2002	The Count of Monte Cristo							****
 2003	Zaman - l'homme des roseaux							******
+2003	Master and Commander: The Far Side of the World					****
 2003	Intolerable Cruelty								**
 2003	Spring, Summer, Fall, Winter... and Spring					*****
 2003	Children of Dune
@@ -1816,6 +1820,7 @@
 2019	The Expanse: Season 4								******
 2019	Sound of Metal									*****
 2020	Curb your Enthusiasm: Season 10							****
+2020	Another Round									**
 2020	Ma Rainey's Black Bottom							*****
 2020	Concrete Cowboy									***
 2020	Infamous
