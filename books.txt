@@ -1,5 +1,5 @@
 Count/ISBN	Category/PRIMARY AUTHOR			TITLE
-96		In total
+97		In total
 
 30		Islam
 978-1941610435	al-Ghazali et al			Al-Ghazali the Mysteries of Charity and the Mysteries of Fasting: Book 5 & 6 of Ihya' 'ulum Al-Din, the Revival of the Religious Sciences 
@@ -45,7 +45,7 @@ Count/ISBN	Category/PRIMARY AUTHOR			TITLE
 978-8496327412	Al-Mutanabbi				Tiempo sin tregua (101 poemas)
 978-0954497552	Walid Khazendar				Traces of Song: Selections from Ancient Arabic Poetry
 
-14		Libros hispanos
+15		Libros hispanos
 978-0814713594	Linda Fish Compton			Andalusian Lyrical Poetry and Old Spanish Love Songs
 978-8417423018	Joan Brossa Cuervo			Antologia de poemes de revolta (1943 - 1978)
 978-8424923969	Federico Corriente Córdoba		Diccionario de arabismos y voces afines en iberorromance
@@ -60,6 +60,7 @@ Count/ISBN	Category/PRIMARY AUTHOR			TITLE
 978-8495685476	Miguel Hernández			Miguel Hernández. La verdad desnuda
 978-8437603476	Miguel de Unamuno			Niebla (Letras Hispánicas)
 978-8489693937	Juan Ramon Jimenez			Platero Y Yo: Elegia Andaluza
+978-8478071265	Emilio García Gómez			Poemas arabigoandaluces
 
 19		Non-compliant patients ward
 978-0812979688	Nassim Nicholas Taleb			Antifragile: Things That Gain From Disorder
