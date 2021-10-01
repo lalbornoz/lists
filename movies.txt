@@ -510,9 +510,8 @@
 1988 	Tucker: The Man and His Dream 							***
 1988 	Willow
 1988 	The Serpent and the Rainbow 							***
-1988 	Rambo II 									***
 1988 	Police Academy 5: Assignment: Miami Beach 					**
-1988 	Rambo III 									**
+1988 	Rambo III
 1988 	Bloodsport 									****
 1988	The Last Temptation of the Christ						****
 1988	Bird										***
