@@ -697,6 +697,7 @@
 1994	Pulp Fiction									****
 1994	Natural Born Killers
 1995	Twelve Monkeys									*****
+1995	The Usual Suspects								**
 1995	Crusades									*****
 1995	Smoke										****
 1995	Tales from the Hood								***
@@ -817,6 +818,7 @@
 1997	Gattaca										***
 1997	Sue										****
 1998	American History X								***
+1998	A Simple Plan									***
 1998	I Got the Hook-Up								****
 1998	The Johnny Vegas Television Show						****
 1998	Shadow Run									**
