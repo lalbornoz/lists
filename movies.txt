@@ -1004,7 +1004,7 @@
 2002	Catch Me If You Can								****
 2002	Curb your Enthusiasm: Season 3							*****
 2002	Spun
-2002	About Schmidt									***
+2002	About Schmidt
 2002	Altered Carbon: Season 1							***
 2002	Resident Evil									****
 2002	Shottas
