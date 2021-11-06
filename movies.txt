@@ -1007,7 +1007,7 @@
 2002	About Schmidt
 2002	Altered Carbon: Season 1							***
 2002	Resident Evil									****
-2002	Shottas
+2002	Shottas										***
 2002	Solaris										***
 2002	8 Mile										****
 2002	Cube 2: Hypercube
