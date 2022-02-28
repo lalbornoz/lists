@@ -878,7 +878,7 @@
 1999	Absolute Giganten								***
 1999	In China They Eat Dogs								****
 1999	True Crime									***
-1999	The Matrix									***
+1999	The Matrix									*****
 1999	Bleeder										*
 1999	Star Wars: Episode I - The Phantom Menace					**
 1999	My Voyage to Italy								****
@@ -1073,8 +1073,8 @@
 2003	Herr Lehmann									****
 2003	The Lord of the Rings: The Return of the King					**
 2003	21 Grams									**
-2003	The Matrix Reloaded								***
-2003	The Matrix Revolutions								***
+2003	The Matrix Reloaded								****
+2003	The Matrix Revolutions								****
 2003	The Fog of War									****
 2003	Terminator 3: Rise of the Machines						*
 2003	Battle Royale II
