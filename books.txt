@@ -1,55 +1,26 @@
 Count/ISBN	Category/PRIMARY AUTHOR			TITLE
-101		In total
+73		In total
 
-30		Islam
-978-1941610435	al-Ghazali et al			Al-Ghazali the Mysteries of Charity and the Mysteries of Fasting: Book 5 & 6 of Ihya' 'ulum Al-Din, the Revival of the Religious Sciences 
-978-1941610312	al-Ghazali et al			Al-Ghazali: the Mysteries of Purification: Book 3 of the Revival of the Religious Sciences
-978-1590080115	al-Nawawi et al				Al-Maqasid: Nawawi's Manual of Islam
-978-0946621507	Martin Lings				A Sufi Saint of the Twentieth Century
-978-3458700067	al-Nawawi				Das Buch der Vierzig Hadithe: Kitab al-Arba'in. Mit dem Kommentar von Ibn Daqiq al-'Id
-979-3534190393	Abd Elsamad Elschazli			Das Kriterium des Handelns
-978-3458710332	Thomas Bauer				Die Kultur der Ambiguität
-978-8496847743	M. Ali Kettani				El resurgir del Islam en al-Ándalus. Cómo lograron los andalusíes conservar su religión e identidad islámicas desde la caída de Granada hasta nuestros días
-978-1974097715	Ibn Hazm et al				Foundational Islamic Principles 
-978-3406467387	Navid Kermani				Gott ist schön: Das ästhetische Erleben des Koran
-		Abd Elsamad Elschazli			Kants kritische Philosophie und das Problem der Offenbarung
-978-3205993933	Günther Windhager			Leopold Weiss alias Muhammad Asad. Von Galizien nach Arabien 1900 - 1927
-978-1887752312	al-Ghazali et al			MARVELS OF THE HEART: The Revival of the Religious Sciences 
-978-1984152466	Ibn Hazm Al Andaloosee et al		Morals & Behaviours - Al Akhlaq Wa Al-Siyar
-978-9698460419	Muhammad Asad et al			Homecoming of the Heart (1932-1992): Of the Road to Mecca Part 2
-978-1929694150	Hamza Yusuf				Purification of the Heart: Signs, Symptoms and Cures of the Spiritual Diseases of the Heart
-978-0915957729	Nuh Ha MIM Keller			Reliance of the Traveller: A Classic Manual of Islamic Sacred Law
-978-1590080665	Nuh Ha MIM Keller			Sea Without Shore: A Manual of the Sufi Path
-978-1941610152	al-Ghazali et al			The Book of Knowledge: The Revival of the Religious Sciences Volume I: Part I
-978-1999377502	Shaykh Abu Mansoor al-Maturidi et al	The Book of Monotheism Kitaab At-Tawheed: God and the Universe - A Manual of Sunni Theology
-978-0954250300	Imam Busiri				The Burda: The Poem of the Cloak
-978-9004158399	Jonathan Brown				The Canonization of al-Bukhari and Muslim 
-978-0985565930	Hamza Yusuf				The Content of Character - Ethical Sayings of the Prophet Muhammad
-978-0970284396	Hamza Yusuf				The Creed of Imam Al-Tahawi
-978-1891785283	Ahmad Ibn 'Ajiba			The Immense Ocean: Al-Bahr Al-Madid
-978-1941610350	al-Ghazali et al			The Mysteries of the Prayer and Its Important Elements: Book 4 of Ihya' 'ulum Al-Din, the Revival of the Religious Sciences
-978-1941610169	al-Ghazali et al			The Principles of the Creed: Book 2 of the Revival of the Religious Sciences (Ihya ulum al-din / The Revival of the Religious Sciences
-978-0946621354	Abu Madyan Shuayb			The Way of Abu Madyan: The Works of Abu Madyan Shuayb
-978-9839154108	Muhammad Asad				This Law of Ours And Other Essays
-978-0882065007	Seyyed Hossein Nasr			Three Muslim Sages: Avicenna-Suhrawardi-Ibn Arabi
-
-10		Language, music, poetry
+12		Language, music, poetry
 978-0521092579	A. J. Arberry				Arabic Poetry: A Primer for Students
 978-9774166136	Nariman Naili Al-Warraki		Building Arabic Vocabulary Through Reading
 978-0521542067	Hormoz Farhat				Dastgah Concept in Persian Music
 978-3866479265	Rainer Maria Rilke			Rainer Maria Rilke - Gesammelte Werke
+978-0954250300	Imam Busiri				The Burda: The Poem of the Cloak
 978-0140444346	Farid Attar				The Conference of the Birds
 978-0500514627	Farah K. Behbehani			The Conference of the Birds: A Study of Farid ud-Din Attar's Poem Using Jali Diwani Calligraphy
-978-9953015873	Kamal Salibi et al			The Historicity of Biblical Israel: Studies in 1 & 2 Samuel, 2nd Edition
+978-1891785283	Ahmad Ibn 'Ajiba			The Immense Ocean: Al-Bahr Al-Madid
 978-0931340888	Habib Hassan Toouma			The Music of the Arabs
+978-0946621354	Abu Madyan Shuayb			The Way of Abu Madyan: The Works of Abu Madyan Shuayb
 978-8496327412	Al-Mutanabbi				Tiempo sin tregua (101 poemas)
 978-0954497552	Walid Khazendar				Traces of Song: Selections from Ancient Arabic Poetry
 
-15		Libros hispanos
+16		Libros hispanos
 978-0814713594	Linda Fish Compton			Andalusian Lyrical Poetry and Old Spanish Love Songs
 978-8417423018	Joan Brossa Cuervo			Antologia de poemes de revolta (1943 - 1978)
 978-8424923969	Federico Corriente Córdoba		Diccionario de arabismos y voces afines en iberorromance
 978-8433973252	Roberto Bolaño				El gaucho insufrible
+978-8496847743	M. Ali Kettani				El resurgir del Islam en al-Ándalus. Cómo lograron los andalusíes conservar su religión e identidad islámicas desde la caída de Granada hasta nuestros días
 978-8497612517	Isma il b. Muhammad al Saqundi		Elogio del islam español
 978-8420682105	Abd Allah ibn Buluggin			El siglo XI en primera persona : Las memorias de 'Abd Allah, último rey Zirí de Granada destronado por los almorávides (1090)
 978-8481646368	Américo Castro				España en su historia : ensayos sobre historia y literatura
@@ -62,23 +33,22 @@ Count/ISBN	Category/PRIMARY AUTHOR			TITLE
 978-8489693937	Juan Ramon Jimenez			Platero Y Yo: Elegia Andaluza
 978-8478071265	Emilio García Gómez			Poemas arabigoandaluces
 
-20		Non-compliant patients ward
+19		Non-compliant patients ward
 978-0231121255	Usamah b. Munqidh et al			An Arab-Syrian Gentleman and Warrior in the Period of the Crusades
 978-0812979688	Nassim Nicholas Taleb			Antifragile: Things That Gain From Disorder
 978-0141442075	Wilfred Thesiger			Arabian Sands
 978-0300180282	Tim Mackintosh-Smith			Arabs: A 3,000-Year History of Peoples, Tribes and Empires
 978-1575061849	Wilfred G. Lambert et al		Atra-Hasis: The Babylonian Story of the Flood, with the Sumerian Flood Story Bilingual, Reprint Edition
 978-3931659509	Daniel Paul Schreber			Denkwürdigkeiten eines Nervenkranken
-978-0804747684	Talal Asad				Formations of the Secular: Christianity, Islam, Modernity
+978-3458710332	Thomas Bauer				Die Kultur der Ambiguität
 978-0879237738	Noel Perrin				Giving Up the Gun: Japan's Reversion to the Sword, 1543-1879
+978-3406467387	Navid Kermani				Gott ist schön: Das ästhetische Erleben des Koran
 978-3462052619	Martin Sonneborn			Herr Sonneborn geht nach Brüssel: Abenteuer im Europaparlament
+978-9698460419	Muhammad Asad et al			Homecoming of the Heart (1932-1992): Of the Road to Mecca Part 2
 978-3522713801	Michael Ende				Michael Endes Zettelkasten. Skizzen und Notizen
 978-3534219551	Karl Albert				Platonismus. Platons Erbe und das abendländische Philosophieren
-978-1400069712	Ronen Bergman				Rise and Kill First: The Secret History of Israel's Targeted Assassinations
 978-1479856282	Charles Perry				Scents and Flavors: A Syrian Cookbook (Library of Arabic Literature, 47)
-978-0201835953	Frederick P. Brooks Jr.			The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition (2nd Edition)
 978-0099511687	Homer et al				The Odyssey
-978-0900588686	Rene Guenon et al			The Reign of Quantity and the Signs of the Times
 978-0143104933	Abolqasem Ferdowsi et al		The Shahnameh: The Persian Book of Kings
 978-1594488856	The RZA					The Tao of Wu
 978-9004356238	Nawal Nasrallah				Treasure Trove of Benefits and Variety at the Table: A Fourteenth-Century Egyptian Cookbook
