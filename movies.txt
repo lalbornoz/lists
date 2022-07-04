@@ -1191,7 +1191,7 @@
 2005 	Are We There Yet? 								****
 2005 	Be Cool 									***
 2005 	Get Rich or Die Tryin'								***
-2005 	Hustle & Flow 									***
+2005 	Hustle & Flow 									*
 2005	Hostage
 2005	Election
 2005	Thank You for Smoking								**
