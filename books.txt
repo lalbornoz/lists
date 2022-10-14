@@ -1,5 +1,5 @@
 Count/ISBN	Category/PRIMARY AUTHOR			TITLE
-74		In total
+75		In total
 
 12		Language, music, poetry
 978-0521092579	A. J. Arberry				Arabic Poetry: A Primer for Students
@@ -52,6 +52,7 @@ Count/ISBN	Category/PRIMARY AUTHOR			TITLE
 978-0099511687	Homer et al				The Odyssey
 978-0143104933	Abolqasem Ferdowsi et al		The Shahnameh: The Persian Book of Kings
 978-1594488856	The RZA					The Tao of Wu
+978-1787753433	Theo Lorenz				The Trans Self-Care Workbook
 978-9004356238	Nawal Nasrallah				Treasure Trove of Benefits and Variety at the Table: A Fourteenth-Century Egyptian Cookbook
 978-3495486566	Stefano Micali				Wolfgang Blankenburg - Psychiatrie und Phänomenologie
 
