@@ -1,5 +1,5 @@
 Count/ISBN	Category/PRIMARY AUTHOR			TITLE
-75		In total
+76		In total
 
 12		Language, music, poetry
 978-0521092579	A. J. Arberry				Arabic Poetry: A Primer for Students
@@ -56,7 +56,8 @@ Count/ISBN	Category/PRIMARY AUTHOR			TITLE
 978-9004356238	Nawal Nasrallah				Treasure Trove of Benefits and Variety at the Table: A Fourteenth-Century Egyptian Cookbook
 978-3495486566	Stefano Micali				Wolfgang Blankenburg - Psychiatrie und Phänomenologie
 
-26		Novels, short stories
+27		Novels, short stories
+978-1853262715	Leo Tolstoy				Anna Karenina
 978-3957512611	Michael Ende				Das Gefängnis der Freiheit: Geschichten von Wundern und Zeichen
 978-1539975687	Wilhelm Hauff				Das kalte Herz: Ein Märchen
 978-3596181162	Franz Kafka				Das Schloß: Roman
