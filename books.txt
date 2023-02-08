@@ -1,7 +1,7 @@
 Count/ISBN	Category/PRIMARY AUTHOR			TITLE
-76		In total
+77		In total
 
-12		Language, music, poetry
+13		Language, music, poetry
 978-0521092579	A. J. Arberry				Arabic Poetry: A Primer for Students
 978-9774166136	Nariman Naili Al-Warraki		Building Arabic Vocabulary Through Reading
 978-0521542067	Hormoz Farhat				Dastgah Concept in Persian Music
@@ -11,6 +11,7 @@ Count/ISBN	Category/PRIMARY AUTHOR			TITLE
 978-0500514627	Farah K. Behbehani			The Conference of the Birds: A Study of Farid ud-Din Attar's Poem Using Jali Diwani Calligraphy
 978-1891785283	Ahmad Ibn 'Ajiba			The Immense Ocean: Al-Bahr Al-Madid
 978-0931340888	Habib Hassan Toouma			The Music of the Arabs
+978-0500016756	Abdelkebir Khatibi et al		The Splendor of Islamic Calligraphy
 978-0946621354	Abu Madyan Shuayb			The Way of Abu Madyan: The Works of Abu Madyan Shuayb
 978-8496327412	Al-Mutanabbi				Tiempo sin tregua (101 poemas)
 978-0954497552	Walid Khazendar				Traces of Song: Selections from Ancient Arabic Poetry
