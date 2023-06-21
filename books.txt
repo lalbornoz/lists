@@ -1,5 +1,5 @@
 Count/ISBN	Category/PRIMARY AUTHOR			TITLE
-78		In total
+79		In total
 
 13		Language, music, poetry
 978-0521092579	A. J. Arberry				Arabic Poetry: A Primer for Students
@@ -16,8 +16,9 @@ Count/ISBN	Category/PRIMARY AUTHOR			TITLE
 978-8496327412	Al-Mutanabbi				Tiempo sin tregua (101 poemas)
 978-0954497552	Walid Khazendar				Traces of Song: Selections from Ancient Arabic Poetry
 
-16		Libros hispanos
+17		Libros hispanos
 978-0814713594	Linda Fish Compton			Andalusian Lyrical Poetry and Old Spanish Love Songs
+978-8441418325	varios					Antología de la poesía andalusí
 978-8417423018	Joan Brossa Cuervo			Antologia de poemes de revolta (1943 - 1978)
 978-8424923969	Federico Corriente Córdoba		Diccionario de arabismos y voces afines en iberorromance
 978-8433973252	Roberto Bolaño				El gaucho insufrible
