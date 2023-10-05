@@ -1825,7 +1825,7 @@
 2017	The Ritual									***
 2017	Aus dem Nichts									**
 2017	Get Out										***
-2017	4 Blocks: Season 1								*****
+2017	4 Blocks: Season 1								****
 2017	Fist Fight									***
 2018	Annihilation
 2018	Mia and the White Lion								*****
@@ -1859,9 +1859,10 @@
 2018	Fahrenheit 451									**
 2018	Who is America									*****
 2018	Murder Mountain									****
-2018	4 Blocks: Season 2								***
+2018	4 Blocks: Season 2								**
 2018	Unsolved									***
 2019	Trigger Warning with Killer Mike						****
+2019	4 Blocks: Season 3								*
 2019	Dark: Season 2									*
 2019	For all Mankind: Season 1							***
 2019	Doctor Sleep
