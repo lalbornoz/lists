@@ -1,5 +1,5 @@
 Count/ISBN	Category/PRIMARY AUTHOR			TITLE
-79		In total
+82		In total
 
 13		Language, music, poetry
 978-0521092579	A. J. Arberry				Arabic Poetry: A Primer for Students
@@ -16,7 +16,8 @@ Count/ISBN	Category/PRIMARY AUTHOR			TITLE
 978-8496327412	Al-Mutanabbi				Tiempo sin tregua (101 poemas)
 978-0954497552	Walid Khazendar				Traces of Song: Selections from Ancient Arabic Poetry
 
-17		Libros hispanos
+18		Libros hispanos
+978-1859641842	Ibn Abd Rabbih et al			The Unique Necklace: Al-'Iqd al-Farid, Volume I
 978-0814713594	Linda Fish Compton			Andalusian Lyrical Poetry and Old Spanish Love Songs
 978-8441418325	varios					Antología de la poesía andalusí
 978-8417423018	Joan Brossa Cuervo			Antologia de poemes de revolta (1943 - 1978)
@@ -58,7 +59,7 @@ Count/ISBN	Category/PRIMARY AUTHOR			TITLE
 978-9004356238	Nawal Nasrallah				Treasure Trove of Benefits and Variety at the Table: A Fourteenth-Century Egyptian Cookbook
 978-3495486566	Stefano Micali				Wolfgang Blankenburg - Psychiatrie und Phänomenologie
 
-28		Novels, short stories
+30		Novels, short stories
 978-1853262715	Leo Tolstoy				Anna Karenina
 978-3957512611	Michael Ende				Das Gefängnis der Freiheit: Geschichten von Wundern und Zeichen
 978-1539975687	Wilhelm Hauff				Das kalte Herz: Ein Märchen
@@ -68,6 +69,7 @@ Count/ISBN	Category/PRIMARY AUTHOR			TITLE
 978-1561310326	Ismail Kadare				Doruntine
 978-0140435313	Edwin Abbott				Flatland: A Romance of Many Dimensions by A. Square
 978-0140445503	Francois Rabelais			Gargantua and Pantagruel
+978-0815607656	Radwa Ashour et al			Granada: A Novel (Middle East Literature in Translation)
 978-0743477123	William Shakespeare			Hamlet (Folger Library Shakespeare)
 978-0810117310	Stanislaw Lem				His Master's Voice
 978-0812969641	Marcel Proust				In Search of Lost Time
@@ -78,6 +80,7 @@ Count/ISBN	Category/PRIMARY AUTHOR			TITLE
 978-1503055582	Fyodor Dostoevsky			Notes from the Underground
 978-0679730675	Edward W. Said				Out of Place: A Memoir
 978-0141185262	Vladimir Nabokov			Pale Fire
+2-7242-4133-9	Amin Maalouf et al			Samarkand
 978-0811220361	Sonallah Ibrahim et al			That Smell and Notes from Prison
 978-1612190877	Ameen Rihani				The Book of Khalid
 978-0141028590	Sathnam Sanghera			The Boy with the Topknot: A Memoir of Love, Secrets and Lies in Wolverhampton
