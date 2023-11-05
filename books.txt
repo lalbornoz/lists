@@ -57,7 +57,7 @@ Count/ISBN	Category/PRIMARY AUTHOR			TITLE
 978-1594488856	The RZA					The Tao of Wu
 978-1787753433	Theo Lorenz				The Trans Self-Care Workbook
 978-9004356238	Nawal Nasrallah				Treasure Trove of Benefits and Variety at the Table: A Fourteenth-Century Egyptian Cookbook
-978-3495486566	Stefano Micali				Wolfgang Blankenburg - Psychiatrie und Phänomenologie
+0-688-00230-7	Robert M. Pirsig			Zen and the Art of Motorcycle Maintenance
 
 31		Novels, short stories
 978-1853262715	Leo Tolstoy				Anna Karenina
