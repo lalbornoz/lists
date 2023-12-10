@@ -421,7 +421,7 @@
 1984 	Police Academy 									****
 1984 	Beverly Hills Cop 								****
 1984 	Ghostbusters 									****
-1984 	Threads 									*****
+1984 	Threads 									******
 1984	Ninteen Eighty Four								*****
 1984	2010
 1984	Beat Street									***
