@@ -1161,6 +1161,7 @@
 2004	The Butterfly Effect
 2004	Curb your Enthusiasm: Season 4							****
 2005	Free Zone									***
+2005	Weeds: Season 1									****
 2005	Bastards of the Party								***
 2005	Rome: Season 1									****
 2005	Four Brothers									***
@@ -1232,6 +1233,7 @@
 2005	Tsotsi
 2005	Syriana										****
 2006	This is England									****
+2006	Weeds: Season 2									****
 2006	Walkout										****
 2006	Unknown										**
 2006	Elementarteilchen								****
@@ -1285,6 +1287,7 @@
 2006	Children of Men									****
 2006	Das Leben der Anderen								*****
 2007	Auf der anderen Seite								******
+2007	Weeds: Season 3									****
 2007	Smiley Face									****
 2007	Death Proof
 2007	Uncle P										***
@@ -1334,6 +1337,7 @@
 2007	Taxi to the Dark Side
 2007	1408										***
 2008	Lemon Tree									***
+2008	Weeds: Season 4									***
 2008	Krabat										**
 2008	The Wackness									***
 2008	Fringe: Season 1
@@ -1385,6 +1389,7 @@
 2008	Heena Maysarah									****
 2008	Chiko										*****
 2009	Eastbound & Down								***
+2009	Weeds: Season 5									**
 2009	The Men Who Stare at Goats							***
 2009	In the Loop									***
 2009	New Muslim Cool									****
@@ -1444,6 +1449,7 @@
 2009	The Last House on the Left
 2009	Dead Man Running
 2010	Soul Kitchen									****
+2010	Weeds: Season 6									*
 2010	Never Let Me Go									*****
 2010	Kaboom										***
 2010	The Troll Hunter								***
@@ -1509,6 +1515,7 @@
 2010	North Korea - Crossing the Line (BBC Four Programmes)				***
 2010	Snabba cash									****
 2011	Rich Hall's 'The Dirty South' (BBC Four Programmes)				****
+2011	Weeds: Season 7									*
 2011	Paul										***
 2011	Beats, Rhymes & Life: The Travels of A Tribe Called Quest			****
 2011	The (R)evolution of Immortal Technique						****
@@ -1558,6 +1565,7 @@
 2011 	Rampart 									***
 2011	The Sinking of the Laconia							***
 2012 	Yes, We Can 									***
+2012	Weeds: Season 8
 2012	Mi último round									***
 2012	Joven y alocada									****
 2012	Safety Not Guaranteed								***
