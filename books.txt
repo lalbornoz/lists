@@ -1,5 +1,5 @@
 Count/ISBN	Category/PRIMARY AUTHOR			TITLE
-83		In total
+84		In total
 
 13		Language, music, poetry
 978-0521092579	A. J. Arberry				Arabic Poetry: A Primer for Students
@@ -59,7 +59,7 @@ Count/ISBN	Category/PRIMARY AUTHOR			TITLE
 978-9004356238	Nawal Nasrallah				Treasure Trove of Benefits and Variety at the Table: A Fourteenth-Century Egyptian Cookbook
 0-688-00230-7	Robert M. Pirsig			Zen and the Art of Motorcycle Maintenance
 
-31		Novels, short stories
+32		Novels, short stories
 978-1853262715	Leo Tolstoy				Anna Karenina
 978-3957512611	Michael Ende				Das Gefängnis der Freiheit: Geschichten von Wundern und Zeichen
 978-1539975687	Wilhelm Hauff				Das kalte Herz: Ein Märchen
@@ -86,6 +86,7 @@ Count/ISBN	Category/PRIMARY AUTHOR			TITLE
 978-1612190877	Ameen Rihani				The Book of Khalid
 978-0141028590	Sathnam Sanghera			The Boy with the Topknot: A Memoir of Love, Secrets and Lies in Wolverhampton
 978-0199535620	Geoffrey Chaucer et al			The Canterbury Tales
+978-0099532613	Thomas Pynchon				The Crying of Lot 49
 978-0553380644	Tom Wolfe				The Electric Kool-Aid Acid Test
 978-9931325567	Kamel Daoud				The Meursault Investigation
 978-1583228715	Seba Al-Herz				The Others
