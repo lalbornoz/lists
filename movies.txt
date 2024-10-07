@@ -323,6 +323,7 @@
 1979	Mad Max										***
 1979	The Warriors									****
 1980	The Blues Brothers								****
+1980	The Gods Must Be Crazy								****
 1980	Babylon										******
 1980	Cheech and Chong's Next Movie							****
 1980	Atlantic City									***
@@ -527,6 +528,7 @@
 1988	I'm Gonna Git You Sucka								****
 1988	Ghosts... of the Civil Dead							******
 1989	A Dry White Season
+1989	The Gods Must Be Crazy II							***
 1989	A Grand Day Out with Wallace and Gromit						****
 1989	Henry V										******
 1989	How to Get Ahead in Advertising							**
