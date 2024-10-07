@@ -1910,6 +1910,7 @@
 2019	The Expanse: Season 4								******
 2019	Sound of Metal									*****
 2020	Curb your Enthusiasm: Season 10							****
+2020	Snowpiercer: Season 1								****
 2020	For Life: Season 1								*****
 2020	For Life: Season 2								****
 2020	In Berlin wächst kein Orangenbaum						****
@@ -1933,6 +1934,7 @@
 2020	Mank
 2020	Minamata									****
 2021	The Expanse: Season 5								******
+2021	Snowpiercer: Season 2								****
 2021	The North Water: Season 1							****
 2021	The Outlaws: Season 1								****
 2021	Invasion: Season 1								******
@@ -1963,6 +1965,7 @@
 2021	The Matrix Resurrections							*****
 2021	The Expanse: Season 6								*****
 2022	Better Call Saul: Season 6							******
+2022	Snowpiercer: Season 3								***
 2022	Meltdown: Three Mile Island							****
 2022	Rheingold									**
 2022	The Bear: Season 1								*****
@@ -1974,6 +1977,7 @@
 2023	Para - Wir sind King: Season 2
 2023	German Genius: Season 1								*****
 2024	Mr Bates vs The Post Office: Season 1						****
+2024	Snowpiercer: Season 4								**
 2024	The Bear: Season 3								*****
 2024	Fallout: Season 1								******
 2024	3 Body Problem: Season 1							**
