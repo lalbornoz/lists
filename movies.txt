@@ -1700,6 +1700,7 @@
 2014	Interstellar									****
 2014	Wir sind jung. Wir sind stark.							****
 2015	Better Call Saul: Season 1							*****
+2015	The Last Kingdom: Season 1							***
 2015	Deutschland 83: Season 1							**
 2015	Tangerine									**
 2015	The Danish Girl									***
@@ -1804,6 +1805,7 @@
 2016	The Last Man on Earth: Season 3							**
 2016	Tschick										****
 2017	Better Call Saul: Season 3							*****
+2017	The Last Kingdom: Season 2							**
 2017	Ozark: Season 1
 2017	Una mujer fantástica								****
 2017	Dark: Season 1									**
