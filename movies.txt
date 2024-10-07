@@ -257,6 +257,7 @@
 1975	Three Days of the Condor
 1975	The Wind and the Lion
 1976	The Message									******
+1976	Pressure									****
 1976	Assault on Precinct 13								****
 1976	Nordsee ist Mordsee								****
 1976	Ripping Yarns									***
