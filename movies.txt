@@ -1888,6 +1888,7 @@
 2018	4 Blocks: Season 2								**
 2018	Unsolved									***
 2019	Trigger Warning with Killer Mike						****
+2019	After Life: Season 1								***
 2019	Silicon Valley: Season 6							***
 2019	Les Misérables									****
 2019	4 Blocks: Season 3								*
@@ -1921,6 +1922,7 @@
 2019	The Expanse: Season 4								******
 2019	Sound of Metal									*****
 2020	Curb your Enthusiasm: Season 10							****
+2020	After Life: Season 2
 2020	Tenet
 2020	Gangs of London: Season 1							**
 2020	Snowpiercer: Season 1								****
