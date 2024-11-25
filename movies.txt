@@ -1854,6 +1854,7 @@
 2017	4 Blocks: Season 1								****
 2017	Fist Fight									***
 2018	Annihilation
+2018	The Dead Center									****
 2018	Aniara										*
 2018	Silicon Valley: Season 5							***
 2018	Deutschland 83: Season 2
