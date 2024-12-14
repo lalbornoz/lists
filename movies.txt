@@ -1219,7 +1219,7 @@
 2005 	Hustle & Flow 									*
 2005	Hostage
 2005	Election
-2005	Thank You for Smoking								**
+2005	Thank You for Smoking								***
 2005	The Great Raid
 2005	Broken Flowers
 2005	The Jacket									***
