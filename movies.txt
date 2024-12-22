@@ -473,7 +473,7 @@
 1986	The Name of the Rose								****
 1986	Down By Law									****
 1986	Top Gun										*
-1986	Big Trouble in Little China							*
+1986	Big Trouble in Little China							****
 1987	Angel Heart									*****
 1987	Over the Top									****
 1987	Ironweed									***
