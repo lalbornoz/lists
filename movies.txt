@@ -1690,7 +1690,7 @@
 2014	Silicon Valley: Season 1							*****
 2014	Black Mirror: Season 2								****
 2014	A Pigeon Sat on a Branch Reflecting on Existence
-2014	Halt and Catch Fire: Season 1							***
+2014	Halt and Catch Fire: Season 1							**
 2014	American Sniper									**
 2014	Zeit der Kannibalen								****
 2014	Trailer Park Boys: Don't Legalize It						***
@@ -1745,7 +1745,7 @@
 2015	Silicon Valley: Season 2							*****
 2015	The Last Man on Earth: Season 1							***
 2015	The Last Man on Earth: Season 2							***
-2015	Halt and Catch Fire: Season 2							**
+2015	Halt and Catch Fire: Season 2							*
 2015	Mr. Robot
 2015	Above and Below
 2015	Er ist wieder da								****
@@ -1796,7 +1796,7 @@
 2016	Hip-Hop Evolution								****
 2016	Silicon Valley: Season 3							****
 2016	Black Mirror: Season 3								*****
-2016	Halt and Catch Fire: Season 3							*
+2016	Halt and Catch Fire: Season 3
 2016	Star Trek Beyond
 2016	13 Hours: The Secret Soldiers of Benghazi
 2016	Risen
