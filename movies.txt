@@ -1925,13 +1925,14 @@
 2019	Man Like Mobeen: Series Two							*****
 2019	Fyre Fraud									***
 2019	Turn Up Charlie: Season 1							***
-2019	Ramy: Season 1									*****
+2019	Ramy: Season 1									****
 2019	Patriot Act with Hasan Minhaj: Season 2						*****
 2019	Black Mirror: Season 5								*****
 2019	The Witcher: Season 1								***
 2019	The Expanse: Season 4								******
 2019	Sound of Metal									*****
 2020	Curb your Enthusiasm: Season 10							****
+2020	Ramy: Season 2									****
 2020	After Life: Season 2
 2020	Tenet
 2020	Gangs of London: Season 1							**
@@ -1991,6 +1992,7 @@
 2021	The Matrix Resurrections							*****
 2021	The Expanse: Season 6								*****
 2022	Better Call Saul: Season 6							******
+2022	Ramy: Season 3									***
 2022	Mo: Season 1									*****
 2022	The Lazarus Project: Season 1
 2022	Tulsa King: Season 1
