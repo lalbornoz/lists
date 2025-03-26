@@ -782,7 +782,7 @@
 1996	Freeway
 1996	Bound										*
 1996	Fear
-1996	Primal Fear
+1996	Primal Fear									****
 1996	Chronicle of a Disappearance							******
 1996	Bullet										****
 1996	Escape from L.A.								****
