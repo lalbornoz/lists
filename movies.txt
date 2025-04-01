@@ -1578,6 +1578,7 @@
 2011 	Rampart 									***
 2011	The Sinking of the Laconia							***
 2012 	Yes, We Can 									***
+2012	Django Unchained								***
 2012	Weeds: Season 8
 2012	Mi último round									***
 2012	Joven y alocada									****
