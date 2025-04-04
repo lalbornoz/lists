@@ -1965,6 +1965,7 @@
 2020	Mank
 2020	Minamata									****
 2021	The Expanse: Season 5								******
+2021	Don't Look Up									****
 2021	Boiling Point									****
 2021	Clickbait: Season 1								*
 2021	The White Lotus: Season 1							***
