@@ -361,6 +361,7 @@
 1981	Outland										****
 1980	The Shining 									*****
 1982	Vice Squad									**
+1982	Countryman									***
 1982	Fast Times at Ridgemont High							***
 1982	Dead Easy									***
 1982	Things are Tough all Over							***
