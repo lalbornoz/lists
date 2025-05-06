@@ -1,5 +1,5 @@
 Count/ISBN	Category/PRIMARY AUTHOR			TITLE
-84		In total
+85		In total
 
 13		Language, music, poetry
 978-0521092579	A. J. Arberry				Arabic Poetry: A Primer for Students
@@ -36,7 +36,7 @@ Count/ISBN	Category/PRIMARY AUTHOR			TITLE
 978-8489693937	Juan Ramon Jimenez			Platero Y Yo: Elegia Andaluza
 978-8478071265	Emilio García Gómez			Poemas arabigoandaluces
 
-20		Non-compliant patients ward
+21		Non-compliant patients ward
 978-0231121255	Usamah b. Munqidh et al			An Arab-Syrian Gentleman and Warrior in the Period of the Crusades
 978-0812979688	Nassim Nicholas Taleb			Antifragile: Things That Gain From Disorder
 978-0141442075	Wilfred Thesiger			Arabian Sands
@@ -57,6 +57,7 @@ Count/ISBN	Category/PRIMARY AUTHOR			TITLE
 978-1594488856	The RZA					The Tao of Wu
 978-1787753433	Theo Lorenz				The Trans Self-Care Workbook
 978-9004356238	Nawal Nasrallah				Treasure Trove of Benefits and Variety at the Table: A Fourteenth-Century Egyptian Cookbook
+978-3943330489	Sebastian Carayol			We are Rockers: Ted Bafaloukos + 1970s New York + Kingston + On Set Mayhem= The Making of Reggae’s Most Iconic Film
 0-688-00230-7	Robert M. Pirsig			Zen and the Art of Motorcycle Maintenance
 
 32		Novels, short stories
