@@ -2042,7 +2042,7 @@
 2024	Testo: Season 1									****
 2024	Juror #2									**
 2025	Mo: Season 2									*****
-2025	The Pitt: Season 1								****
+2025	The Pitt: Season 1								*****
 2025	Adolescence: Season 1								***
 2025	Krank: Berlin: Season 1								****
 
