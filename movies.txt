@@ -1375,7 +1375,7 @@
 2008	A Road to Mecca: The Journey of Muhammad Asad					******
 2008	The Andromeda Strain								***
 2008	Gangster's Paradise: Jerusalema							**
-2008	Breaking Bad									*****
+2008	Breaking Bad: Season 1								******
 2008	Adulthood									****
 2008	Traitor										***
 2008 	Taken
@@ -1402,6 +1402,7 @@
 2008	Heena Maysarah									****
 2008	Chiko										*****
 2009	Eastbound & Down								***
+2009	Breaking Bad: Season 2								*****
 2009	Weeds: Season 5									**
 2009	The Men Who Stare at Goats							***
 2009	In the Loop									***
@@ -1462,6 +1463,7 @@
 2009	The Last House on the Left
 2009	Dead Man Running
 2010	Soul Kitchen									****
+2010	Breaking Bad: Season 3								****
 2010	TRON: Legacy
 2010	The Social Network								***
 2010	Weeds: Season 6									*
@@ -1530,6 +1532,7 @@
 2010	North Korea - Crossing the Line (BBC Four Programmes)				***
 2010	Snabba cash									****
 2011	Rich Hall's 'The Dirty South' (BBC Four Programmes)				****
+2011	Breaking Bad: Season 4								***
 2011	Too Big To Fail									**
 2011	Weeds: Season 7									*
 2011	Paul										***
@@ -1581,6 +1584,7 @@
 2011 	Rampart 									***
 2011	The Sinking of the Laconia							***
 2012 	Yes, We Can 									***
+2012	Breaking Bad: Season 5								***
 2012	Django Unchained								***
 2012	Weeds: Season 8
 2012	Mi último round									***
