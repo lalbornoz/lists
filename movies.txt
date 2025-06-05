@@ -755,7 +755,7 @@
 1996	Trainspotting									*****
 1996	The Cable Guy
 1996	Big Night									****
-1996	Kingpin										****
+1996	Kingpin										***
 1996	Haifa										*****
 1996	The Ghost and the Darkness							****
 1996	A Time to Kill									***
