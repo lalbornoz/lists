@@ -411,6 +411,7 @@
 1983	Bad Boys									****
 1983	Tchao Pantin									******
 1983	Scarface									****
+1983	Twilight Zone: The Movie
 1984	Dune										***
 1984	Repo Man									**
 1984	Red Dawn									**
