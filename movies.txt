@@ -362,6 +362,7 @@
 1981	Escape from New York								****
 1981	Outland										****
 1980	The Shining 									*****
+1980	Popeye										*
 1982	Vice Squad									**
 1982	Countryman									***
 1982	Fast Times at Ridgemont High							***
