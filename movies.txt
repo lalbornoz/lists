@@ -394,7 +394,7 @@
 1983	Testament
 1983	Videodrome									****
 1983	Silkwood									****
-1983	The Day After									****
+1983	The Day After									***
 1983	The Comic Strip Presents...: War						**
 1983	The Comic Strip Presents...: The Beat Generation				***
 1983	The Comic Strip Presents...: Bad News Tour					****
