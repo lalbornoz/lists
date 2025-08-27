@@ -1963,7 +1963,7 @@
 2019	Dolemite is My Name								****
 2019	El Camino: A Breaking Bad Movie							****
 2019	The Red Sea Diving Resort							***
-2019	Chernobyl: Season 1								*****
+2019	Chernobyl: Season 1								******
 2019	4 latas										***
 2019	The Trap									***
 2019	Shaft										**
