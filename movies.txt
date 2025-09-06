@@ -765,6 +765,7 @@
 1995	La Haine									*****
 1995	Se7en										****
 1995	Species
+1995	Citizen X
 1996	Trainspotting									*****
 1996	The Cable Guy
 1996	Big Night									****
