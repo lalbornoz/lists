@@ -1614,6 +1614,7 @@
 2011 	Trespass 									***
 2011 	Rampart 									***
 2011	The Sinking of the Laconia							***
+2011	Attack the Block								****
 2012 	Yes, We Can 									***
 2012	Breaking Bad: Season 5								***
 2012	Django Unchained								***
