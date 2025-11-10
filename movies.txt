@@ -274,7 +274,7 @@
 1976	Marathon Man									*****
 1976	Der Fangschuß
 1976	Underground
-1976	The Human Tornado								***
+1976	The Human Tornado								****
 1976	All the President's Men								****
 1976	Taxi Driver									******
 1977	Short Eyes									*****
