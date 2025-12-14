@@ -145,6 +145,8 @@
 1968	Rosemary's Baby									****
 1968	Sweden - Heaven and Hell							***
 1968	Das Schloss									***
+1968	Rosemary's Baby									****
+1968	Once Upon a Time in the West
 1969	Topaz										*
 1969	Al-Mummia									*****
 1969	Katzelmacher									****
@@ -793,7 +795,6 @@
 1996	Ransom										**
 1996	Original Gangstas								****
 1996	Schizopolis									****
-1968	Rosemary's Baby									****
 1996	2 Days in the Valley
 1996	Sleepers									*
 1996	Bulletproof
