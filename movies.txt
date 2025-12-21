@@ -2131,7 +2131,7 @@
 2024	Civil War									***
 2024	Heretic										**
 2024	Carry-On									**
-2024	Landman: Season 1								*****
+2024	Landman: Season 1								****
 2024	Alien: Romulus									**
 2024	Snowpiercer: Season 4								**
 2024	The Bear: Season 3								***
@@ -2171,6 +2171,7 @@
 2025	Frankenstein									***
 2025	Nuremberg
 2025	One Battle After Another
+2025	Landman: Season 2								**
 
 ----------------------------------------------------------------------	Shite to mediocre
 	Unwatchable, shite, garbage, nonsense
