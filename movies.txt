@@ -381,7 +381,7 @@
 1982	The Young Ones									**
 1982	48 Hrs.										**
 1982	Blade Runner									****
-1982	Rambo: First Blood								*****
+1982	Rambo: First Blood								****
 1982	The Thing									***
 1982	Night Shift									**
 1982	Star Trek II: The Wrath of Khan							***
@@ -454,7 +454,7 @@
 1985 	Commando 									***
 1985 	Police Academy 2: Their First Assignment 					***
 1985 	Rocky IV 									****
-1985 	Rambo: First Blood Part II 							**
+1985 	Rambo: First Blood Part II
 1985	Le Thé au harem d'Archimède							****
 1985 	Brewster's Millions 								****
 1985	Year of the Dragon								***
@@ -1423,7 +1423,7 @@
 2008 	Cloverfield
 2008 	First Sunday 									****
 2008 	Der Baader Meinhof Komplex 							*****
-2008 	Rambo 										***
+2008 	Rambo
 2008	Revanche									*****
 2008	Martyrs 									***
 2008	Berlin Calling									****
