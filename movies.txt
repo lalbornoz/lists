@@ -1912,7 +1912,7 @@
 2017	Where's the Money								*
 2017	Bruder: Schwarze Macht								**
 2017	T2 Trainspotting								**
-2017	Man Like Mobeen: Series One							*****
+2017	Man Like Mobeen: Series One							****
 2017	Life										**
 2017	Nur Gott kann mich richten							***
 2017	Destruction Los Angeles								**
@@ -2012,7 +2012,7 @@
 2019	Shaft										**
 2019	Beats										***
 2019	When They See Us								****
-2019	Man Like Mobeen: Series Two							*****
+2019	Man Like Mobeen: Series Two							****
 2019	Fyre Fraud									***
 2019	Turn Up Charlie: Season 1							***
 2019	Ramy: Season 1									****
@@ -2053,7 +2053,7 @@
 2020	Concrete Cowboy									***
 2020	Infamous
 2020	Better Call Saul: Season 5							*****
-2020	Man Like Mobeen: Series Three							*****
+2020	Man Like Mobeen: Series Three							****
 2020	Death to 2020									****
 2020	Original Gangster
 2020	Lapsis										****
