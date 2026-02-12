@@ -1940,7 +1940,7 @@
 2017	4 Blocks: Season 1								****
 2017	Fist Fight									***
 2017	Manhunt: Unabomber: Season 1							***
-2017	Shot Caller									****
+2017	Shot Caller									***
 2017	Vice Principals: Season 2							***
 2018	Annihilation
 2018	The Dead Center									****
