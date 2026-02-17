@@ -942,7 +942,7 @@
 1999	One Day in September								***
 1999	The Color of Paradise								****
 1999	Sunshine									****
-1999	East is East									*
+1999	East is East									***
 1999	The Thirteenth Floor								****
 1999	A Room for Romeo Brass								***
 1999	Human Traffic									***
