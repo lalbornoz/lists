@@ -309,6 +309,7 @@
 1978	Coma										***
 1978	Straight Time									**
 1978	Blue Collar									******
+1978	The Deer Hunter
 1979	Stalker										******
 1979	Money Movers									****
 1979	Beyond the Poseidon Adventure							**
