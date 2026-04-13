@@ -593,7 +593,7 @@
 1990 	Cadence 									****
 1990	King of New York								**
 1990	Narrow Margin 									****
-1990	Jacob's Ladder									*****
+1990	Jacob's Ladder									******
 1990	Lionheart									***
 1990	Come See the Paradise
 1990	Goodfellas									****
