@@ -1658,6 +1658,7 @@
 2011	Suits: Season 1
 2011	Hall Pass
 2011	Take Shelter									***
+2011	Margin Call									***
 2012 	Yes, We Can 									***
 2012	Breaking Bad: Season 5								***
 2012	Django Unchained								***
