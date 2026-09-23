@@ -287,7 +287,7 @@
 1977	The Fatal Flying Guillotines							***
 1977	The Private Files of J. Edgar Hoover						**
 1977	Executioners from Shaolin							****
-1977	Kentucky Fried Movie
+1977	Kentucky Fried Movie								****
 1977 	New York, New York 								****
 1977 	Star Wars: Episode IV - A New Hope						***
 1977	A Bridge too Far								***
