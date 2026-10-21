@@ -1667,6 +1667,7 @@
 2011	Take Shelter									***
 2011	Margin Call									***
 2011	Killer Joe
+2011	Young Adult									****
 2012 	Yes, We Can 									***
 2012	Breaking Bad: Season 5								***
 2012	Django Unchained								***
