@@ -1699,7 +1699,7 @@
 2012	Safe										***
 2012	Get the Gringo									***
 2012	A Coffee in Berlin								**
-2012	Promised Land									****
+2012	Promised Land
 2012	Snabba cash II									****
 2012	The Hunt									****
 2012	Prometheus									**
