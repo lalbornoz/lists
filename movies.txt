@@ -1018,6 +1018,7 @@
 2000	Memento										****
 2000	On the Beach									****
 2000	Groove
+2000	Leprechaun in the Hood								***
 2001	Taxi para tres									****
 2001	Exit Wounds									**
 2001	Band of Brothers: Season 1							***
